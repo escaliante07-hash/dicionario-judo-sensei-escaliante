@@ -1,7 +1,7 @@
-const CACHE = "dicionario-judo-v31";
+const CACHE = "dicionario-judo-v32";
 const BASE = self.registration.scope;
 const asset = path => new URL(path, BASE).href;
-const ASSETS = ["", "index.html", "manifest.webmanifest", "data.json", "icons/app-icon-escaliante.png", "icons/sensei-escaliante-logo.png"].map(asset);
+const ASSETS = ["", "index.html", "manifest.webmanifest", "data.json", "icons/app-icon-escaliante.png", "icons/app-icon-escaliante-192.png", "icons/sensei-escaliante-logo.png"].map(asset);
 const CORE_PATHS = new Set(["", "index.html", "data.json", "manifest.webmanifest", "sw.js"].map(path => new URL(path, BASE).pathname));
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS)));
