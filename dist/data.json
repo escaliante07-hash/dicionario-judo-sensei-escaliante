@@ -1,0 +1,3547 @@
+{
+  "techniques": [
+    {
+      "id": 1,
+      "name": "Ippon-seoi-nage",
+      "pronunciation": "ip-po-n / se-o-i / na-gue",
+      "meaning": "Projeção pelas costas com um braço.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=FQnOlCxo4oI"
+    },
+    {
+      "id": 2,
+      "name": "Kata-guruma",
+      "pronunciation": "ca-ta / gu-ru-ma",
+      "meaning": "Roda de ombro.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=cnHRhSy8yi4"
+    },
+    {
+      "id": 3,
+      "name": "Kibisu-gaeshi",
+      "pronunciation": "qui-bi-su / ga-e-xi",
+      "meaning": "Reversão pelo calcanhar.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=tJylJYfBliA"
+    },
+    {
+      "id": 4,
+      "name": "Ko-uchi-gaeshi",
+      "pronunciation": "co / u-tchi / ga-e-xi",
+      "meaning": "Contra-ataque à ceifa interna menor.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=_MWAdYi_LC4"
+    },
+    {
+      "id": 5,
+      "name": "Kuchiki-taoshi",
+      "pronunciation": "cu-tchi-qui / ta-o-xi",
+      "meaning": "Derrubada da árvore seca; queda segurando uma perna.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=ZNL47q1aJNY"
+    },
+    {
+      "id": 6,
+      "name": "Morote-gari",
+      "pronunciation": "mo-ro-te / ga-ri",
+      "meaning": "Ceifa com as duas mãos.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=BHLQS4K85bs"
+    },
+    {
+      "id": 7,
+      "name": "Obi-otoshi",
+      "pronunciation": "o-bi / o-to-xi",
+      "meaning": "Queda pela faixa/cinto.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=ff8U2TVZIYI"
+    },
+    {
+      "id": 8,
+      "name": "Obi-tori-gaeshi",
+      "pronunciation": "o-bi / to-ri / ga-e-xi",
+      "meaning": "Reversão segurando a faixa/cinto.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=bpc82SrunUU"
+    },
+    {
+      "id": 9,
+      "name": "Seoi-nage",
+      "pronunciation": "se-o-i / na-gue",
+      "meaning": "Projeção pelas costas; projeção de ombro.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=zIq0xI0ogxk"
+    },
+    {
+      "id": 10,
+      "name": "Seoi-otoshi",
+      "pronunciation": "se-o-i / o-to-xi",
+      "meaning": "Queda pelas costas; queda de ombro.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=vu1TMVNnq34"
+    },
+    {
+      "id": 11,
+      "name": "Sukui-nage",
+      "pronunciation": "su-cu-i / na-gue",
+      "meaning": "Projeção em concha; levantamento com os braços.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=vU6aJ2kFxoI"
+    },
+    {
+      "id": 12,
+      "name": "Sumi-otoshi",
+      "pronunciation": "su-mi / o-to-xi",
+      "meaning": "Queda de canto.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=lLU9wv52ni0"
+    },
+    {
+      "id": 13,
+      "name": "Tai-otoshi",
+      "pronunciation": "ta-i / o-to-xi",
+      "meaning": "Queda de corpo.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=4x6S3Q-Ktv8"
+    },
+    {
+      "id": 14,
+      "name": "Uchi-mata-sukashi",
+      "pronunciation": "u-tchi / ma-ta / su-ca-xi",
+      "meaning": "Esquiva e contra à ação de uchi-mata.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=V-RS3uhtVWM"
+    },
+    {
+      "id": 15,
+      "name": "Uki-otoshi",
+      "pronunciation": "u-qui / o-to-xi",
+      "meaning": "Queda flutuante.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=6H5tmncOY4Q"
+    },
+    {
+      "id": 16,
+      "name": "Yama-arashi",
+      "pronunciation": "iá-ma / a-ra-xi",
+      "meaning": "Tempestade da montanha.",
+      "division": "Nage-waza",
+      "category": "Te-waza",
+      "categoryDescription": "Técnicas de mão e braço",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=MGlyKmSuzdc"
+    },
+    {
+      "id": 17,
+      "name": "Hane-goshi",
+      "pronunciation": "ha-ne / go-xi",
+      "meaning": "Projeção de quadril em mola.",
+      "division": "Nage-waza",
+      "category": "Koshi-waza",
+      "categoryDescription": "Técnicas de quadril",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=M9_7De6A1kk"
+    },
+    {
+      "id": 18,
+      "name": "Harai-goshi",
+      "pronunciation": "ha-ra-i / go-xi",
+      "meaning": "Projeção de quadril com varredura.",
+      "division": "Nage-waza",
+      "category": "Koshi-waza",
+      "categoryDescription": "Técnicas de quadril",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=qTo8HlAAkOo"
+    },
+    {
+      "id": 19,
+      "name": "Koshi-guruma",
+      "pronunciation": "co-xi / gu-ru-ma",
+      "meaning": "Roda de quadril.",
+      "division": "Nage-waza",
+      "category": "Koshi-waza",
+      "categoryDescription": "Técnicas de quadril",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=SU7Id6uVJ44"
+    },
+    {
+      "id": 20,
+      "name": "O-goshi",
+      "pronunciation": "o / go-xi",
+      "meaning": "Grande projeção de quadril.",
+      "division": "Nage-waza",
+      "category": "Koshi-waza",
+      "categoryDescription": "Técnicas de quadril",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=yhu1mfy2vJ4"
+    },
+    {
+      "id": 21,
+      "name": "Sode-tsurikomi-goshi",
+      "pronunciation": "so-de / tsu-ri-co-mi / go-xi",
+      "meaning": "Projeção de quadril puxando e elevando pela manga.",
+      "division": "Nage-waza",
+      "category": "Koshi-waza",
+      "categoryDescription": "Técnicas de quadril",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=QsmAxpmYLOI"
+    },
+    {
+      "id": 22,
+      "name": "Tsuri-goshi",
+      "pronunciation": "tsu-ri / go-xi",
+      "meaning": "Projeção de quadril com elevação.",
+      "division": "Nage-waza",
+      "category": "Koshi-waza",
+      "categoryDescription": "Técnicas de quadril",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=51Htlp7xEvE"
+    },
+    {
+      "id": 23,
+      "name": "Tsurikomi-goshi",
+      "pronunciation": "tsu-ri-co-mi / go-xi",
+      "meaning": "Projeção de quadril puxando e elevando.",
+      "division": "Nage-waza",
+      "category": "Koshi-waza",
+      "categoryDescription": "Técnicas de quadril",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=McfzA0yRVt4"
+    },
+    {
+      "id": 24,
+      "name": "Uki-goshi",
+      "pronunciation": "u-qui / go-xi",
+      "meaning": "Quadril flutuante.",
+      "division": "Nage-waza",
+      "category": "Koshi-waza",
+      "categoryDescription": "Técnicas de quadril",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=bPKwtB4lyOQ"
+    },
+    {
+      "id": 25,
+      "name": "Ushiro-goshi",
+      "pronunciation": "u-xi-ro / go-xi",
+      "meaning": "Projeção de quadril para trás.",
+      "division": "Nage-waza",
+      "category": "Koshi-waza",
+      "categoryDescription": "Técnicas de quadril",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=ORIYstuxYT8"
+    },
+    {
+      "id": 26,
+      "name": "Utsuri-goshi",
+      "pronunciation": "u-tsu-ri / go-xi",
+      "meaning": "Troca de quadril.",
+      "division": "Nage-waza",
+      "category": "Koshi-waza",
+      "categoryDescription": "Técnicas de quadril",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=4pQd_bEnlf0"
+    },
+    {
+      "id": 27,
+      "name": "Ashi-guruma",
+      "pronunciation": "a-xi / gu-ru-ma",
+      "meaning": "Roda de perna.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=ROeayhvom9U"
+    },
+    {
+      "id": 28,
+      "name": "De-ashi-harai",
+      "pronunciation": "de / a-xi / ha-ra-i",
+      "meaning": "Varredura do pé que avança.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=4BUUvqxi_Kk"
+    },
+    {
+      "id": 29,
+      "name": "Hane-goshi-gaeshi",
+      "pronunciation": "ha-ne / go-xi / ga-e-xi",
+      "meaning": "Contra à projeção hane-goshi.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=9bZAZSBtnGs"
+    },
+    {
+      "id": 30,
+      "name": "Harai-goshi-gaeshi",
+      "pronunciation": "ha-ra-i / go-xi / ga-e-xi",
+      "meaning": "Contra à projeção harai-goshi.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=4U3It-7PPsc"
+    },
+    {
+      "id": 31,
+      "name": "Harai-tsurikomi-ashi",
+      "pronunciation": "ha-ra-i / tsu-ri-co-mi / a-xi",
+      "meaning": "Varredura do pé com ação de puxar e elevar.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=gGPXvWL8VbE"
+    },
+    {
+      "id": 32,
+      "name": "Hiza-guruma",
+      "pronunciation": "hi-za / gu-ru-ma",
+      "meaning": "Roda de joelho.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=JPJx9-oAVns"
+    },
+    {
+      "id": 33,
+      "name": "Ko-soto-gake",
+      "pronunciation": "co / so-to / ga-que",
+      "meaning": "Pequeno gancho externo.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=8b6kY4s4zH4"
+    },
+    {
+      "id": 34,
+      "name": "Ko-soto-gari",
+      "pronunciation": "co / so-to / ga-ri",
+      "meaning": "Pequena ceifa externa.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=jeQ541ScLB4"
+    },
+    {
+      "id": 35,
+      "name": "Ko-uchi-gari",
+      "pronunciation": "co / u-tchi / ga-ri",
+      "meaning": "Pequena ceifa interna.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=3Jb3tZvr9Ng"
+    },
+    {
+      "id": 36,
+      "name": "O-guruma",
+      "pronunciation": "o / gu-ru-ma",
+      "meaning": "Grande roda.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=SnZciTAY9vc"
+    },
+    {
+      "id": 37,
+      "name": "O-soto-gaeshi",
+      "pronunciation": "o / so-to / ga-e-xi",
+      "meaning": "Contra à grande ceifa externa.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=8ZjM3X_EANo"
+    },
+    {
+      "id": 38,
+      "name": "O-soto-gari",
+      "pronunciation": "o / so-to / ga-ri",
+      "meaning": "Grande ceifa externa.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=c-A_nP7mKAc"
+    },
+    {
+      "id": 39,
+      "name": "O-soto-guruma",
+      "pronunciation": "o / so-to / gu-ru-ma",
+      "meaning": "Grande roda externa.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=92KbCm6pQeI"
+    },
+    {
+      "id": 40,
+      "name": "O-soto-otoshi",
+      "pronunciation": "o / so-to / o-to-xi",
+      "meaning": "Grande queda externa.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=2DsVvDw7b8g"
+    },
+    {
+      "id": 41,
+      "name": "O-uchi-gaeshi",
+      "pronunciation": "o / u-tchi / ga-e-xi",
+      "meaning": "Contra à grande ceifa interna.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=dCyZTXyjIXE"
+    },
+    {
+      "id": 42,
+      "name": "O-uchi-gari",
+      "pronunciation": "o / u-tchi / ga-ri",
+      "meaning": "Grande ceifa interna.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=0itJFhV9pDQ"
+    },
+    {
+      "id": 43,
+      "name": "Okuri-ashi-harai",
+      "pronunciation": "o-cu-ri / a-xi / ha-ra-i",
+      "meaning": "Varredura dos pés em deslocamento.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=nw1ZdRjrdRI"
+    },
+    {
+      "id": 44,
+      "name": "Sasae-tsurikomi-ashi",
+      "pronunciation": "sa-sa-e / tsu-ri-co-mi / a-xi",
+      "meaning": "Bloqueio do pé com ação de puxar e elevar.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=699i--pvYmE"
+    },
+    {
+      "id": 45,
+      "name": "Tsubame-gaeshi",
+      "pronunciation": "tsu-ba-me / ga-e-xi",
+      "meaning": "Contra-andorinha; contra à varredura do pé.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=GwweWqqFB5g"
+    },
+    {
+      "id": 46,
+      "name": "Uchi-mata",
+      "pronunciation": "u-tchi / ma-ta",
+      "meaning": "Projeção pela parte interna da coxa.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=iUpSu5J-bgw"
+    },
+    {
+      "id": 47,
+      "name": "Uchi-mata-gaeshi",
+      "pronunciation": "u-tchi / ma-ta / ga-e-xi",
+      "meaning": "Contra à projeção uchi-mata.",
+      "division": "Nage-waza",
+      "category": "Ashi-waza",
+      "categoryDescription": "Técnicas de perna e pé",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=Sy6sLWxkWYw"
+    },
+    {
+      "id": 48,
+      "name": "Hikikomi-gaeshi",
+      "pronunciation": "hi-qui-co-mi / ga-e-xi",
+      "meaning": "Reversão puxando para dentro.",
+      "division": "Nage-waza",
+      "category": "Ma-sutemi-waza",
+      "categoryDescription": "Sacrifício para trás",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=92zUYWBp5N8"
+    },
+    {
+      "id": 49,
+      "name": "Sumi-gaeshi",
+      "pronunciation": "su-mi / ga-e-xi",
+      "meaning": "Reversão de canto.",
+      "division": "Nage-waza",
+      "category": "Ma-sutemi-waza",
+      "categoryDescription": "Sacrifício para trás",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=5VhduA5xkbA"
+    },
+    {
+      "id": 50,
+      "name": "Tawara-gaeshi",
+      "pronunciation": "ta-uá-ra / ga-e-xi",
+      "meaning": "Reversão do fardo de arroz.",
+      "division": "Nage-waza",
+      "category": "Ma-sutemi-waza",
+      "categoryDescription": "Sacrifício para trás",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=TmTWgrmViZc"
+    },
+    {
+      "id": 51,
+      "name": "Tomoe-nage",
+      "pronunciation": "to-mo-e / na-gue",
+      "meaning": "Projeção circular; projeção em círculo.",
+      "division": "Nage-waza",
+      "category": "Ma-sutemi-waza",
+      "categoryDescription": "Sacrifício para trás",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=880WbHvHv6A"
+    },
+    {
+      "id": 52,
+      "name": "Ura-nage",
+      "pronunciation": "u-ra / na-gue",
+      "meaning": "Projeção para trás; projeção reversa.",
+      "division": "Nage-waza",
+      "category": "Ma-sutemi-waza",
+      "categoryDescription": "Sacrifício para trás",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=Fgi9b8DJ5sQ"
+    },
+    {
+      "id": 53,
+      "name": "Daki-wakare",
+      "pronunciation": "da-qui / uá-ca-re",
+      "meaning": "Separação pelo abraço.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=Hr0cOMGBDYo"
+    },
+    {
+      "id": 54,
+      "name": "Hane-makikomi",
+      "pronunciation": "ha-ne / ma-qui-co-mi",
+      "meaning": "Enrolamento com ação de mola.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=6CRBGLGz9j8"
+    },
+    {
+      "id": 55,
+      "name": "Harai-makikomi",
+      "pronunciation": "ha-ra-i / ma-qui-co-mi",
+      "meaning": "Enrolamento com varredura.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=VBaHzKaCXss"
+    },
+    {
+      "id": 56,
+      "name": "Kani-basami",
+      "pronunciation": "ca-ni / ba-sa-mi",
+      "meaning": "Tesoura de caranguejo. Técnica proibida em competição IJF.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": true,
+      "videoUrl": "https://www.youtube.com/watch?v=OR-HGHnarYc"
+    },
+    {
+      "id": 57,
+      "name": "Kawazu-gake",
+      "pronunciation": "ca-uá-zu / ga-que",
+      "meaning": "Gancho envolvendo a perna. Técnica proibida em competição IJF.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": true,
+      "videoUrl": "https://www.youtube.com/watch?v=w6G57bWACi0"
+    },
+    {
+      "id": 58,
+      "name": "Ko-uchi-makikomi",
+      "pronunciation": "co / u-tchi / ma-qui-co-mi",
+      "meaning": "Enrolamento com pequena ação interna.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=_1eygIXLD_w"
+    },
+    {
+      "id": 59,
+      "name": "O-soto-makikomi",
+      "pronunciation": "o / so-to / ma-qui-co-mi",
+      "meaning": "Enrolamento com grande ação externa.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=DGDv2oMwmas"
+    },
+    {
+      "id": 60,
+      "name": "Soto-makikomi",
+      "pronunciation": "so-to / ma-qui-co-mi",
+      "meaning": "Enrolamento externo.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=bWG9O1BVKtQ"
+    },
+    {
+      "id": 61,
+      "name": "Tani-otoshi",
+      "pronunciation": "ta-ni / o-to-xi",
+      "meaning": "Queda no vale.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=3b9Me3Fohpk"
+    },
+    {
+      "id": 62,
+      "name": "Uchi-makikomi",
+      "pronunciation": "u-tchi / ma-qui-co-mi",
+      "meaning": "Enrolamento interno.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=5BowcjduxVc"
+    },
+    {
+      "id": 63,
+      "name": "Uchi-mata-makikomi",
+      "pronunciation": "u-tchi / ma-ta / ma-qui-co-mi",
+      "meaning": "Enrolamento com uchi-mata.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=jZXENTLpJCI"
+    },
+    {
+      "id": 64,
+      "name": "Uki-waza",
+      "pronunciation": "u-qui / uá-za",
+      "meaning": "Técnica flutuante.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=weVOpJ63gII"
+    },
+    {
+      "id": 65,
+      "name": "Yoko-gake",
+      "pronunciation": "iô-co / ga-que",
+      "meaning": "Gancho lateral.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=tP1Sj1uDfSo"
+    },
+    {
+      "id": 66,
+      "name": "Yoko-guruma",
+      "pronunciation": "iô-co / gu-ru-ma",
+      "meaning": "Roda lateral.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=MehP6I5cY2c"
+    },
+    {
+      "id": 67,
+      "name": "Yoko-otoshi",
+      "pronunciation": "iô-co / o-to-xi",
+      "meaning": "Queda lateral.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=MnNG67pF_a0"
+    },
+    {
+      "id": 68,
+      "name": "Yoko-wakare",
+      "pronunciation": "iô-co / uá-ca-re",
+      "meaning": "Separação lateral.",
+      "division": "Nage-waza",
+      "category": "Yoko-sutemi-waza",
+      "categoryDescription": "Sacrifício lateral",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=bp1tscHlePI"
+    },
+    {
+      "id": 69,
+      "name": "Kami-shiho-gatame",
+      "pronunciation": "ca-mi / xi-ho / ga-ta-me",
+      "meaning": "Imobilização pelos quatro cantos, pelo lado da cabeça.",
+      "division": "Katame-waza",
+      "category": "Osaekomi-waza",
+      "categoryDescription": "Técnicas de imobilização",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=HFuMjOv0WN8"
+    },
+    {
+      "id": 70,
+      "name": "Kata-gatame",
+      "pronunciation": "ca-ta / ga-ta-me",
+      "meaning": "Imobilização de ombro.",
+      "division": "Katame-waza",
+      "category": "Osaekomi-waza",
+      "categoryDescription": "Técnicas de imobilização",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=zQR3IOXxO_Q"
+    },
+    {
+      "id": 71,
+      "name": "Kesa-gatame",
+      "pronunciation": "que-sa / ga-ta-me",
+      "meaning": "Imobilização em faixa; controle lateral tipo kesa.",
+      "division": "Katame-waza",
+      "category": "Osaekomi-waza",
+      "categoryDescription": "Técnicas de imobilização",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=NDaQuJOFBYk"
+    },
+    {
+      "id": 72,
+      "name": "Kuzure-kami-shiho-gatame",
+      "pronunciation": "cu-zu-re / ca-mi / xi-ho / ga-ta-me",
+      "meaning": "Variação da imobilização pelos quatro cantos pelo lado da cabeça.",
+      "division": "Katame-waza",
+      "category": "Osaekomi-waza",
+      "categoryDescription": "Técnicas de imobilização",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=YUrogQWdwiY"
+    },
+    {
+      "id": 73,
+      "name": "Kuzure-kesa-gatame",
+      "pronunciation": "cu-zu-re / que-sa / ga-ta-me",
+      "meaning": "Variação da imobilização em faixa.",
+      "division": "Katame-waza",
+      "category": "Osaekomi-waza",
+      "categoryDescription": "Técnicas de imobilização",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=Q2fb9jaoUFQ"
+    },
+    {
+      "id": 74,
+      "name": "Tate-shiho-gatame",
+      "pronunciation": "ta-te / xi-ho / ga-ta-me",
+      "meaning": "Imobilização pelos quatro cantos em posição vertical.",
+      "division": "Katame-waza",
+      "category": "Osaekomi-waza",
+      "categoryDescription": "Técnicas de imobilização",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=55-rFmBx53g"
+    },
+    {
+      "id": 75,
+      "name": "Uki-gatame",
+      "pronunciation": "u-qui / ga-ta-me",
+      "meaning": "Imobilização flutuante.",
+      "division": "Katame-waza",
+      "category": "Osaekomi-waza",
+      "categoryDescription": "Técnicas de imobilização",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=e_lAjik1SUM"
+    },
+    {
+      "id": 76,
+      "name": "Ura-gatame",
+      "pronunciation": "u-ra / ga-ta-me",
+      "meaning": "Imobilização reversa.",
+      "division": "Katame-waza",
+      "category": "Osaekomi-waza",
+      "categoryDescription": "Técnicas de imobilização",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=eeAHZB0v3XY"
+    },
+    {
+      "id": 77,
+      "name": "Ushiro-kesa-gatame",
+      "pronunciation": "u-xi-ro / que-sa / ga-ta-me",
+      "meaning": "Imobilização em faixa invertida.",
+      "division": "Katame-waza",
+      "category": "Osaekomi-waza",
+      "categoryDescription": "Técnicas de imobilização",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=SBapox2M2dE"
+    },
+    {
+      "id": 78,
+      "name": "Yoko-shiho-gatame",
+      "pronunciation": "iô-co / xi-ho / ga-ta-me",
+      "meaning": "Imobilização pelos quatro cantos lateral.",
+      "division": "Katame-waza",
+      "category": "Osaekomi-waza",
+      "categoryDescription": "Técnicas de imobilização",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=TT7XJVSEQxA"
+    },
+    {
+      "id": 79,
+      "name": "Do-jime",
+      "pronunciation": "do / dji-me",
+      "meaning": "Estrangulamento do tronco com as pernas. Proibida em competição IJF.",
+      "division": "Katame-waza",
+      "category": "Shime-waza",
+      "categoryDescription": "Técnicas de estrangulamento",
+      "warning": true,
+      "videoUrl": "https://www.youtube.com/watch?v=D_0fFcoIbvY"
+    },
+    {
+      "id": 80,
+      "name": "Gyaku-juji-jime",
+      "pronunciation": "guiá-cu / dju-dji / dji-me",
+      "meaning": "Estrangulamento cruzado invertido.",
+      "division": "Katame-waza",
+      "category": "Shime-waza",
+      "categoryDescription": "Técnicas de estrangulamento",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=t3tQriIPdlI"
+    },
+    {
+      "id": 81,
+      "name": "Hadaka-jime",
+      "pronunciation": "ha-da-ca / dji-me",
+      "meaning": "Estrangulamento sem judogi; “estrangulamento nu”.",
+      "division": "Katame-waza",
+      "category": "Shime-waza",
+      "categoryDescription": "Técnicas de estrangulamento",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=9f0n8jez7iA"
+    },
+    {
+      "id": 82,
+      "name": "Kata-juji-jime",
+      "pronunciation": "ca-ta / dju-dji / dji-me",
+      "meaning": "Estrangulamento cruzado de um lado.",
+      "division": "Katame-waza",
+      "category": "Shime-waza",
+      "categoryDescription": "Técnicas de estrangulamento",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=3VZVUAmiMD8"
+    },
+    {
+      "id": 83,
+      "name": "Kataha-jime",
+      "pronunciation": "ca-ta-ha / dji-me",
+      "meaning": "Estrangulamento de uma asa.",
+      "division": "Katame-waza",
+      "category": "Shime-waza",
+      "categoryDescription": "Técnicas de estrangulamento",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=yaTGgRjnwB8"
+    },
+    {
+      "id": 84,
+      "name": "Katate-jime",
+      "pronunciation": "ca-ta-te / dji-me",
+      "meaning": "Estrangulamento com uma mão.",
+      "division": "Katame-waza",
+      "category": "Shime-waza",
+      "categoryDescription": "Técnicas de estrangulamento",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=cHeIs-fSqwE"
+    },
+    {
+      "id": 85,
+      "name": "Nami-juji-jime",
+      "pronunciation": "na-mi / dju-dji / dji-me",
+      "meaning": "Estrangulamento cruzado normal.",
+      "division": "Katame-waza",
+      "category": "Shime-waza",
+      "categoryDescription": "Técnicas de estrangulamento",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=k2cHry9HByQ"
+    },
+    {
+      "id": 86,
+      "name": "Okuri-eri-jime",
+      "pronunciation": "o-cu-ri / e-ri / dji-me",
+      "meaning": "Estrangulamento com gola deslizante.",
+      "division": "Katame-waza",
+      "category": "Shime-waza",
+      "categoryDescription": "Técnicas de estrangulamento",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=EiqyoVcIAi8"
+    },
+    {
+      "id": 87,
+      "name": "Ryote-jime",
+      "pronunciation": "rió-te / dji-me",
+      "meaning": "Estrangulamento com as duas mãos.",
+      "division": "Katame-waza",
+      "category": "Shime-waza",
+      "categoryDescription": "Técnicas de estrangulamento",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=-RHC4V7TQiY"
+    },
+    {
+      "id": 88,
+      "name": "Sankaku-jime",
+      "pronunciation": "sa-n-ca-cu / dji-me",
+      "meaning": "Estrangulamento triangular.",
+      "division": "Katame-waza",
+      "category": "Shime-waza",
+      "categoryDescription": "Técnicas de estrangulamento",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=lq1CUBRAm7s"
+    },
+    {
+      "id": 89,
+      "name": "Sode-guruma-jime",
+      "pronunciation": "so-de / gu-ru-ma / dji-me",
+      "meaning": "Estrangulamento em roda com a manga.",
+      "division": "Katame-waza",
+      "category": "Shime-waza",
+      "categoryDescription": "Técnicas de estrangulamento",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=E3nvQzClcAU"
+    },
+    {
+      "id": 90,
+      "name": "Tsukkomi-jime",
+      "pronunciation": "tsuk-co-mi / dji-me",
+      "meaning": "Estrangulamento com pressão da mão para dentro.",
+      "division": "Katame-waza",
+      "category": "Shime-waza",
+      "categoryDescription": "Técnicas de estrangulamento",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=dKKpnD3eLcY"
+    },
+    {
+      "id": 91,
+      "name": "Ashi-garami",
+      "pronunciation": "a-xi / ga-ra-mi",
+      "meaning": "Enlace da perna; controle articular da perna.",
+      "division": "Katame-waza",
+      "category": "Kansetsu-waza",
+      "categoryDescription": "Técnicas de controle articular",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=BWWb0GoAtZw"
+    },
+    {
+      "id": 92,
+      "name": "Ude-garami",
+      "pronunciation": "u-de / ga-ra-mi",
+      "meaning": "Enlace do braço.",
+      "division": "Katame-waza",
+      "category": "Kansetsu-waza",
+      "categoryDescription": "Técnicas de controle articular",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=AIlTvZb4RlE"
+    },
+    {
+      "id": 93,
+      "name": "Ude-hishigi-ashi-gatame",
+      "pronunciation": "u-de / hi-xi-gui / a-xi / ga-ta-me",
+      "meaning": "Chave de braço com a perna.",
+      "division": "Katame-waza",
+      "category": "Kansetsu-waza",
+      "categoryDescription": "Técnicas de controle articular",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=ClY7g_pX-4s"
+    },
+    {
+      "id": 94,
+      "name": "Ude-hishigi-hara-gatame",
+      "pronunciation": "u-de / hi-xi-gui / ha-ra / ga-ta-me",
+      "meaning": "Chave de braço com o abdômen.",
+      "division": "Katame-waza",
+      "category": "Kansetsu-waza",
+      "categoryDescription": "Técnicas de controle articular",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=ZzEycg8R_9M"
+    },
+    {
+      "id": 95,
+      "name": "Ude-hishigi-hiza-gatame",
+      "pronunciation": "u-de / hi-xi-gui / hi-za / ga-ta-me",
+      "meaning": "Chave de braço com o joelho.",
+      "division": "Katame-waza",
+      "category": "Kansetsu-waza",
+      "categoryDescription": "Técnicas de controle articular",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=H2HtAJdiJcE"
+    },
+    {
+      "id": 96,
+      "name": "Ude-hishigi-juji-gatame",
+      "pronunciation": "u-de / hi-xi-gui / dju-dji / ga-ta-me",
+      "meaning": "Chave de braço em cruz.",
+      "division": "Katame-waza",
+      "category": "Kansetsu-waza",
+      "categoryDescription": "Técnicas de controle articular",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=OWgSOlCuMXw"
+    },
+    {
+      "id": 97,
+      "name": "Ude-hishigi-sankaku-gatame",
+      "pronunciation": "u-de / hi-xi-gui / sa-n-ca-cu / ga-ta-me",
+      "meaning": "Chave de braço em triângulo.",
+      "division": "Katame-waza",
+      "category": "Kansetsu-waza",
+      "categoryDescription": "Técnicas de controle articular",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=WefAmW4azhk"
+    },
+    {
+      "id": 98,
+      "name": "Ude-hishigi-te-gatame",
+      "pronunciation": "u-de / hi-xi-gui / te / ga-ta-me",
+      "meaning": "Chave de braço com a mão.",
+      "division": "Katame-waza",
+      "category": "Kansetsu-waza",
+      "categoryDescription": "Técnicas de controle articular",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=6DnvhY0tQVM"
+    },
+    {
+      "id": 99,
+      "name": "Ude-hishigi-ude-gatame",
+      "pronunciation": "u-de / hi-xi-gui / u-de / ga-ta-me",
+      "meaning": "Chave de braço com os braços.",
+      "division": "Katame-waza",
+      "category": "Kansetsu-waza",
+      "categoryDescription": "Técnicas de controle articular",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=SBf0aTma1VI"
+    },
+    {
+      "id": 100,
+      "name": "Ude-hishigi-waki-gatame",
+      "pronunciation": "u-de / hi-xi-gui / uá-qui / ga-ta-me",
+      "meaning": "Chave de braço na axila.",
+      "division": "Katame-waza",
+      "category": "Kansetsu-waza",
+      "categoryDescription": "Técnicas de controle articular",
+      "warning": false,
+      "videoUrl": "https://www.youtube.com/watch?v=8F5p1zuJRG0"
+    }
+  ],
+  "terms": [
+    {
+      "term": "Ai-yotsu",
+      "pronunciation": "a-i / io-tsu",
+      "meaning": "Pegadas no mesmo lado.",
+      "kihonGroups": [
+        "05"
+      ]
+    },
+    {
+      "term": "Anza",
+      "pronunciation": "a-n-za",
+      "meaning": "Posição sentada informal, com as pernas cruzadas.",
+      "kihonGroups": [
+        "08"
+      ]
+    },
+    {
+      "term": "Ashi-waza",
+      "pronunciation": "a-xi / uá-za",
+      "meaning": "Técnicas de perna e pé."
+    },
+    {
+      "term": "Atemi-waza",
+      "pronunciation": "a-te-mi / uá-za",
+      "meaning": "Técnicas de ataque por golpes; estudadas sobretudo em kata, não aplicadas no randori competitivo."
+    },
+    {
+      "term": "Ayumi-ashi",
+      "pronunciation": "a-iô-mi / a-xi",
+      "meaning": "Passada natural alternada.",
+      "kihonGroups": [
+        "02"
+      ]
+    },
+    {
+      "term": "Bōgyo",
+      "pronunciation": "bô-guio",
+      "meaning": "Defesa.",
+      "kihonGroups": [
+        "10"
+      ]
+    },
+    {
+      "term": "Budo",
+      "pronunciation": "bu-do",
+      "meaning": "Caminho marcial; formação por meio das artes marciais."
+    },
+    {
+      "term": "Butsukari",
+      "pronunciation": "bu-tsu-ca-ri",
+      "meaning": "Exercício repetido de entrada com pressão ou resistência.",
+      "kihonGroups": [
+        "11"
+      ]
+    },
+    {
+      "term": "Chokuritsu",
+      "pronunciation": "tcho-cu-ri-tsu",
+      "meaning": "Posição ereta de atenção.",
+      "kihonGroups": [
+        "08"
+      ]
+    },
+    {
+      "term": "Dan",
+      "pronunciation": "da-n",
+      "meaning": "Grau avançado, geralmente a partir da faixa preta."
+    },
+    {
+      "term": "Dojo",
+      "pronunciation": "do-djô",
+      "meaning": "Local de prática e formação."
+    },
+    {
+      "term": "Ebi",
+      "pronunciation": "e-bi",
+      "meaning": "Movimento de quadril conhecido como “camarão”.",
+      "kihonGroups": [
+        "09"
+      ]
+    },
+    {
+      "term": "Eri",
+      "pronunciation": "e-ri",
+      "meaning": "Gola do judogi.",
+      "kihonGroups": [
+        "05"
+      ]
+    },
+    {
+      "term": "Fusegi",
+      "pronunciation": "fu-se-gui",
+      "meaning": "Defesa; ação de proteger-se ou evitar a técnica.",
+      "kihonGroups": [
+        "10"
+      ]
+    },
+    {
+      "term": "Go-no-sen",
+      "pronunciation": "o / no / se-n",
+      "meaning": "Iniciativa após o ataque do parceiro.",
+      "kihonGroups": [
+        "10"
+      ]
+    },
+    {
+      "term": "Gyaku-ebi",
+      "pronunciation": "guia-cu / e-bi",
+      "meaning": "Movimento invertido de “camarão”.",
+      "kihonGroups": [
+        "09"
+      ]
+    },
+    {
+      "term": "Hajime",
+      "pronunciation": "ha-dji-me",
+      "meaning": "Comecem; comando para iniciar."
+    },
+    {
+      "term": "Hansoku-make",
+      "pronunciation": "ha-n-so-cu / ma-que",
+      "meaning": "Desclassificação; derrota por infração grave ou acúmulo de penalidades, conforme as regras."
+    },
+    {
+      "term": "Hantei",
+      "pronunciation": "ha-n-te-i",
+      "meaning": "Decisão dos árbitros."
+    },
+    {
+      "term": "Happō-no-kuzushi",
+      "pronunciation": "ha-p-pô / no / cu-zu-xi",
+      "meaning": "Desequilíbrio nas oito direções.",
+      "kihonGroups": [
+        "04"
+      ]
+    },
+    {
+      "term": "Henka-waza",
+      "pronunciation": "he-n-ca / ua-za",
+      "meaning": "Técnica de variação ou mudança.",
+      "kihonGroups": [
+        "10"
+      ]
+    },
+    {
+      "term": "Hidari",
+      "pronunciation": "hi-da-ri",
+      "meaning": "Esquerda; lado esquerdo.",
+      "kihonGroups": [
+        "02",
+        "04"
+      ]
+    },
+    {
+      "term": "Hidari-jigotai",
+      "pronunciation": "hi-da-ri / dji-o-ta-i",
+      "meaning": "Postura defensiva à esquerda.",
+      "kihonGroups": [
+        "01"
+      ]
+    },
+    {
+      "term": "Hidari-kumi-kata",
+      "pronunciation": "hi-da-ri / cu-mi / ca-ta",
+      "meaning": "Pegada à esquerda.",
+      "kihonGroups": [
+        "05"
+      ]
+    },
+    {
+      "term": "Hidari-mae-mawari-ukemi",
+      "pronunciation": "hi-da-ri / ma-e / ma-ua-ri / u-que-mi",
+      "meaning": "Rolamento de queda para a frente, à esquerda.",
+      "kihonGroups": [
+        "06"
+      ]
+    },
+    {
+      "term": "Hidari-mae-sabaki",
+      "pronunciation": "hi-da-ri / ma-e / sa-ba-qui",
+      "meaning": "Movimentação diagonal à esquerda e à frente.",
+      "kihonGroups": [
+        "03"
+      ]
+    },
+    {
+      "term": "Hidari-mae-sumi",
+      "pronunciation": "hi-da-ri / ma-e / su-mi",
+      "meaning": "Diagonal do canto frontal esquerdo.",
+      "kihonGroups": [
+        "04"
+      ]
+    },
+    {
+      "term": "Hidari-mawari-sabaki",
+      "pronunciation": "hi-da-ri / ma-ua-ri / sa-ba-qui",
+      "meaning": "Movimentação circular para a esquerda.",
+      "kihonGroups": [
+        "03"
+      ]
+    },
+    {
+      "term": "Hidari-shizentai",
+      "pronunciation": "hi-da-ri / xi-ze-n-ta-i",
+      "meaning": "Postura natural à esquerda.",
+      "kihonGroups": [
+        "01"
+      ]
+    },
+    {
+      "term": "Hidari-ushiro-sabaki",
+      "pronunciation": "hi-da-ri / u-xi-ro / sa-ba-qui",
+      "meaning": "Movimentação diagonal à esquerda e para trás.",
+      "kihonGroups": [
+        "03"
+      ]
+    },
+    {
+      "term": "Hidari-ushiro-sumi",
+      "pronunciation": "hi-da-ri / u-xi-ro / su-mi",
+      "meaning": "Diagonal do canto traseiro esquerdo.",
+      "kihonGroups": [
+        "04"
+      ]
+    },
+    {
+      "term": "Hidari-yoko-ukemi",
+      "pronunciation": "hi-da-ri / io-co / u-que-mi",
+      "meaning": "Queda lateral para a esquerda.",
+      "kihonGroups": [
+        "06"
+      ]
+    },
+    {
+      "term": "Hiki-te",
+      "pronunciation": "hi-qui / te",
+      "meaning": "Mão que puxa; em geral, a mão que controla a manga.",
+      "kihonGroups": [
+        "05"
+      ]
+    },
+    {
+      "term": "Hikkomi",
+      "pronunciation": "hik-co-mi",
+      "meaning": "Ação de puxar o parceiro para o solo; entrada em trabalho de chão."
+    },
+    {
+      "term": "Hon-kumi-kata",
+      "pronunciation": "ho-n / cu-mi / ca-ta",
+      "meaning": "Pegada básica.",
+      "kihonGroups": [
+        "05"
+      ]
+    },
+    {
+      "term": "Ippon",
+      "pronunciation": "ip-po-n",
+      "meaning": "Ponto completo; resultado que encerra o combate."
+    },
+    {
+      "term": "Jigo-hontai",
+      "pronunciation": "dji-o / ho-n-ta-i",
+      "meaning": "Postura defensiva básica.",
+      "kihonGroups": [
+        "01"
+      ]
+    },
+    {
+      "term": "Jigotai",
+      "pronunciation": "dji-go-ta-i",
+      "meaning": "Postura defensiva.",
+      "kihonGroups": [
+        "01"
+      ]
+    },
+    {
+      "term": "Jita-kyoei",
+      "pronunciation": "dji-ta / quió-e-i",
+      "meaning": "Prosperidade e benefício mútuos."
+    },
+    {
+      "term": "Judo",
+      "pronunciation": "dju-do",
+      "meaning": "Caminho suave; princípio de usar a energia com eficiência."
+    },
+    {
+      "term": "Judogi",
+      "pronunciation": "dju-do-gui",
+      "meaning": "Uniforme de judô."
+    },
+    {
+      "term": "Judoka",
+      "pronunciation": "dju-do-ca",
+      "meaning": "Praticante de judô."
+    },
+    {
+      "term": "Ju-no-ri",
+      "pronunciation": "dju / no / ri",
+      "meaning": "Princípio da suavidade e da adaptação."
+    },
+    {
+      "term": "Kachi",
+      "pronunciation": "ca-tchi",
+      "meaning": "Vitória."
+    },
+    {
+      "term": "Kaeshi-waza",
+      "pronunciation": "ca-e-xi / ua-za",
+      "meaning": "Técnicas de contra-ataque.",
+      "kihonGroups": [
+        "10"
+      ]
+    },
+    {
+      "term": "Kakari-geiko",
+      "pronunciation": "ca-ca-ri / gue-i-co",
+      "meaning": "Treino de ataque contínuo, com papéis definidos.",
+      "kihonGroups": [
+        "11"
+      ]
+    },
+    {
+      "term": "Kake",
+      "pronunciation": "ca-que",
+      "meaning": "Execução final da técnica; fase de projeção.",
+      "kihonGroups": [
+        "07"
+      ]
+    },
+    {
+      "term": "Kame",
+      "pronunciation": "ca-me",
+      "meaning": "Posição defensiva “tartaruga”.",
+      "kihonGroups": [
+        "09"
+      ]
+    },
+    {
+      "term": "Kansetsu-waza",
+      "pronunciation": "ca-n-se-tsu / uá-za",
+      "meaning": "Técnicas de controle articular."
+    },
+    {
+      "term": "Kata",
+      "pronunciation": "ca-ta",
+      "meaning": "Forma ou sequência formal de técnicas.",
+      "kihonGroups": [
+        "11"
+      ]
+    },
+    {
+      "term": "Katame-waza",
+      "pronunciation": "ca-ta-me / uá-za",
+      "meaning": "Técnicas de controle no solo."
+    },
+    {
+      "term": "Keiko",
+      "pronunciation": "que-i-co",
+      "meaning": "Treino; prática."
+    },
+    {
+      "term": "Kenka-yotsu",
+      "pronunciation": "que-n-ca / io-tsu",
+      "meaning": "Pegadas em lados opostos.",
+      "kihonGroups": [
+        "05"
+      ]
+    },
+    {
+      "term": "Kiai",
+      "pronunciation": "qui-a-i",
+      "meaning": "Expressão vigorosa de energia e intenção."
+    },
+    {
+      "term": "Kihon",
+      "pronunciation": "qui-ho-n",
+      "meaning": "Fundamentos e princípios básicos que sustentam a prática do judô."
+    },
+    {
+      "term": "Kime",
+      "pronunciation": "qui-me",
+      "meaning": "Foco e determinação na execução.",
+      "kihonGroups": [
+        "07"
+      ]
+    },
+    {
+      "term": "Koka",
+      "pronunciation": "co-ca",
+      "meaning": "Antiga pontuação de competição; não integra a pontuação atual."
+    },
+    {
+      "term": "Koshi-waza",
+      "pronunciation": "co-xi / uá-za",
+      "meaning": "Técnicas de quadril."
+    },
+    {
+      "term": "Kumi-kata",
+      "pronunciation": "cu-mi / ca-ta",
+      "meaning": "Forma de pegar e organizar as pegadas.",
+      "kihonGroups": [
+        "05"
+      ]
+    },
+    {
+      "term": "Kuzure",
+      "pronunciation": "cu-zu-re",
+      "meaning": "Variação ou forma modificada."
+    },
+    {
+      "term": "Kuzushi",
+      "pronunciation": "cu-zu-xi",
+      "meaning": "Desequilíbrio; ruptura da estabilidade do parceiro.",
+      "kihonGroups": [
+        "04",
+        "07"
+      ]
+    },
+    {
+      "term": "Kyu",
+      "pronunciation": "quiú",
+      "meaning": "Grau anterior à faixa preta."
+    },
+    {
+      "term": "Ma-ai",
+      "pronunciation": "ma / a-i",
+      "meaning": "Distância e intervalo de ação entre os praticantes."
+    },
+    {
+      "term": "Mae",
+      "pronunciation": "ma-e",
+      "meaning": "Frente; para a frente.",
+      "kihonGroups": [
+        "02",
+        "04"
+      ]
+    },
+    {
+      "term": "Mae-mawari-komi",
+      "pronunciation": "ma-e / ma-ua-ri / co-mi",
+      "meaning": "Entrada com giro para a frente.",
+      "kihonGroups": [
+        "03"
+      ]
+    },
+    {
+      "term": "Mae-mawari-sabaki",
+      "pronunciation": "ma-e / ma-ua-ri / sa-ba-qui",
+      "meaning": "Movimentação circular para a frente.",
+      "kihonGroups": [
+        "03"
+      ]
+    },
+    {
+      "term": "Mae-mawari-ukemi",
+      "pronunciation": "ma-e / ma-ua-ri / u-que-mi",
+      "meaning": "Queda com rolamento para a frente.",
+      "kihonGroups": [
+        "06"
+      ]
+    },
+    {
+      "term": "Mae-sabaki",
+      "pronunciation": "ma-e / sa-ba-qui",
+      "meaning": "Movimentação do corpo para a frente.",
+      "kihonGroups": [
+        "03"
+      ]
+    },
+    {
+      "term": "Mae-ukemi",
+      "pronunciation": "ma-e / u-que-mi",
+      "meaning": "Amortecimento de queda para a frente.",
+      "kihonGroups": [
+        "06"
+      ]
+    },
+    {
+      "term": "Mate",
+      "pronunciation": "ma-te",
+      "meaning": "Parem; comando de interrupção."
+    },
+    {
+      "term": "Migi",
+      "pronunciation": "mi-gui",
+      "meaning": "Direita; lado direito.",
+      "kihonGroups": [
+        "02",
+        "04"
+      ]
+    },
+    {
+      "term": "Migi-jigotai",
+      "pronunciation": "mi-gui / dji-o-ta-i",
+      "meaning": "Postura defensiva à direita.",
+      "kihonGroups": [
+        "01"
+      ]
+    },
+    {
+      "term": "Migi-kumi-kata",
+      "pronunciation": "mi-gui / cu-mi / ca-ta",
+      "meaning": "Pegada à direita.",
+      "kihonGroups": [
+        "05"
+      ]
+    },
+    {
+      "term": "Migi-mae-mawari-ukemi",
+      "pronunciation": "mi-gui / ma-e / ma-ua-ri / u-que-mi",
+      "meaning": "Rolamento de queda para a frente, à direita.",
+      "kihonGroups": [
+        "06"
+      ]
+    },
+    {
+      "term": "Migi-mae-sabaki",
+      "pronunciation": "mi-gui / ma-e / sa-ba-qui",
+      "meaning": "Movimentação diagonal à direita e à frente.",
+      "kihonGroups": [
+        "03"
+      ]
+    },
+    {
+      "term": "Migi-mae-sumi",
+      "pronunciation": "mi-gui / ma-e / su-mi",
+      "meaning": "Diagonal do canto frontal direito.",
+      "kihonGroups": [
+        "04"
+      ]
+    },
+    {
+      "term": "Migi-mawari-sabaki",
+      "pronunciation": "mi-gui / ma-ua-ri / sa-ba-qui",
+      "meaning": "Movimentação circular para a direita.",
+      "kihonGroups": [
+        "03"
+      ]
+    },
+    {
+      "term": "Migi-shizentai",
+      "pronunciation": "mi-gui / xi-ze-n-ta-i",
+      "meaning": "Postura natural à direita.",
+      "kihonGroups": [
+        "01"
+      ]
+    },
+    {
+      "term": "Migi-ushiro-sabaki",
+      "pronunciation": "mi-gui / u-xi-ro / sa-ba-qui",
+      "meaning": "Movimentação diagonal à direita e para trás.",
+      "kihonGroups": [
+        "03"
+      ]
+    },
+    {
+      "term": "Migi-ushiro-sumi",
+      "pronunciation": "mi-gui / u-xi-ro / su-mi",
+      "meaning": "Diagonal do canto traseiro direito.",
+      "kihonGroups": [
+        "04"
+      ]
+    },
+    {
+      "term": "Migi-yoko-ukemi",
+      "pronunciation": "mi-gui / io-co / u-que-mi",
+      "meaning": "Queda lateral para a direita.",
+      "kihonGroups": [
+        "06"
+      ]
+    },
+    {
+      "term": "Mokuso",
+      "pronunciation": "mo-cu-so",
+      "meaning": "Momento de concentração silenciosa.",
+      "kihonGroups": [
+        "08"
+      ]
+    },
+    {
+      "term": "Morote",
+      "pronunciation": "mo-ro-te",
+      "meaning": "Duas mãos; com ambos os braços."
+    },
+    {
+      "term": "Nagekomi",
+      "pronunciation": "na-gue-co-mi",
+      "meaning": "Repetição de projeções completas.",
+      "kihonGroups": [
+        "11"
+      ]
+    },
+    {
+      "term": "Nage-waza",
+      "pronunciation": "na-gue / uá-za",
+      "meaning": "Técnicas de projeção."
+    },
+    {
+      "term": "Naname-mae",
+      "pronunciation": "na-na-me / ma-e",
+      "meaning": "Diagonal para a frente.",
+      "kihonGroups": [
+        "02"
+      ]
+    },
+    {
+      "term": "Naname-ushiro",
+      "pronunciation": "na-na-me / u-xi-ro",
+      "meaning": "Diagonal para trás.",
+      "kihonGroups": [
+        "02"
+      ]
+    },
+    {
+      "term": "Ne-waza",
+      "pronunciation": "ne / uá-za",
+      "meaning": "Trabalho e técnicas no solo."
+    },
+    {
+      "term": "Obi",
+      "pronunciation": "o-bi",
+      "meaning": "Faixa/cinto.",
+      "kihonGroups": [
+        "05"
+      ]
+    },
+    {
+      "term": "Oku-eri",
+      "pronunciation": "o-cu / e-ri",
+      "meaning": "Gola mais distante; gola do lado oposto.",
+      "kihonGroups": [
+        "05"
+      ]
+    },
+    {
+      "term": "Osaekomi",
+      "pronunciation": "o-sa-e-co-mi",
+      "meaning": "Imobilização iniciada; comando arbitral."
+    },
+    {
+      "term": "Osaekomi-waza",
+      "pronunciation": "o-sa-e-co-mi / uá-za",
+      "meaning": "Técnicas de imobilização."
+    },
+    {
+      "term": "Otagai-ni-rei",
+      "pronunciation": "o-ta-a-i / ni / re-i",
+      "meaning": "Saudação mútua entre praticantes.",
+      "kihonGroups": [
+        "08"
+      ]
+    },
+    {
+      "term": "Randori",
+      "pronunciation": "ra-n-do-ri",
+      "meaning": "Prática livre com parceiro; treino de aplicação.",
+      "kihonGroups": [
+        "11"
+      ]
+    },
+    {
+      "term": "Rei",
+      "pronunciation": "re-i",
+      "meaning": "Saudação; respeito expresso pela reverência.",
+      "kihonGroups": [
+        "08"
+      ]
+    },
+    {
+      "term": "Reiho",
+      "pronunciation": "re-i-ho",
+      "meaning": "Etiqueta e procedimentos de saudação."
+    },
+    {
+      "term": "Renraku-waza",
+      "pronunciation": "re-n-ra-cu / uá-za",
+      "meaning": "Combinação de técnicas diferentes.",
+      "kihonGroups": [
+        "10"
+      ]
+    },
+    {
+      "term": "Renzoku-waza",
+      "pronunciation": "re-n-zo-cu / uá-za",
+      "meaning": "Ataque contínuo, repetindo a mesma técnica ou ação.",
+      "kihonGroups": [
+        "10"
+      ]
+    },
+    {
+      "term": "Ritsu-rei",
+      "pronunciation": "ri-tsu / re-i",
+      "meaning": "Saudação em pé."
+    },
+    {
+      "term": "Ritsu-rei / Tachi-rei",
+      "pronunciation": "ri-tsu / re-i / ta-tchi / re-i",
+      "meaning": "Saudação em pé.",
+      "kihonGroups": [
+        "08"
+      ]
+    },
+    {
+      "term": "Seiryoku-zenyo",
+      "pronunciation": "se-i-rió-cu / ze-n-iô",
+      "meaning": "Máxima eficiência no uso da energia."
+    },
+    {
+      "term": "Seiza",
+      "pronunciation": "se-i-za",
+      "meaning": "Posição formal ajoelhada.",
+      "kihonGroups": [
+        "08"
+      ]
+    },
+    {
+      "term": "Sen",
+      "pronunciation": "se-n",
+      "meaning": "Iniciativa.",
+      "kihonGroups": [
+        "10"
+      ]
+    },
+    {
+      "term": "Sen-no-sen",
+      "pronunciation": "se-n / no / se-n",
+      "meaning": "Iniciativa simultânea ao início do ataque.",
+      "kihonGroups": [
+        "10"
+      ]
+    },
+    {
+      "term": "Sensei",
+      "pronunciation": "se-n-se-i",
+      "meaning": "Professor ou instrutor."
+    },
+    {
+      "term": "Sensei-ni-rei",
+      "pronunciation": "se-n-se-i / ni / re-i",
+      "meaning": "Saudação ao professor.",
+      "kihonGroups": [
+        "08"
+      ]
+    },
+    {
+      "term": "Shiai",
+      "pronunciation": "xi-a-i",
+      "meaning": "Competição; combate oficial.",
+      "kihonGroups": [
+        "11"
+      ]
+    },
+    {
+      "term": "Shiai-jo",
+      "pronunciation": "xi-a-i / djô",
+      "meaning": "Área de competição."
+    },
+    {
+      "term": "Shido",
+      "pronunciation": "xi-do",
+      "meaning": "Penalidade leve prevista nas regras."
+    },
+    {
+      "term": "Shikō",
+      "pronunciation": "xi-cô",
+      "meaning": "Deslocamento ajoelhado.",
+      "kihonGroups": [
+        "09"
+      ]
+    },
+    {
+      "term": "Shime-waza",
+      "pronunciation": "xi-me / uá-za",
+      "meaning": "Técnicas de estrangulamento e constrição."
+    },
+    {
+      "term": "Shinpan",
+      "pronunciation": "xi-n-pa-n",
+      "meaning": "Arbitragem; ato de arbitrar."
+    },
+    {
+      "term": "Shintai",
+      "pronunciation": "xi-n-ta-i",
+      "meaning": "Deslocamento corporal.",
+      "kihonGroups": [
+        "02"
+      ]
+    },
+    {
+      "term": "Shisei",
+      "pronunciation": "xi-se-i",
+      "meaning": "Postura; posição corporal.",
+      "kihonGroups": [
+        "01"
+      ]
+    },
+    {
+      "term": "Shisei no Ne-waza",
+      "pronunciation": "xi-se-i / no / ne / ua-za",
+      "meaning": "Postura no trabalho de solo.",
+      "kihonGroups": [
+        "09"
+      ]
+    },
+    {
+      "term": "Shizen-hontai",
+      "pronunciation": "xi-ze-n / ho-n-ta-i",
+      "meaning": "Postura natural básica.",
+      "kihonGroups": [
+        "01"
+      ]
+    },
+    {
+      "term": "Shizen-tai",
+      "pronunciation": "xi-ze-n / ta-i",
+      "meaning": "Postura natural.",
+      "kihonGroups": [
+        "01"
+      ]
+    },
+    {
+      "term": "Shomen",
+      "pronunciation": "xô-me-n",
+      "meaning": "Frente principal do dojo."
+    },
+    {
+      "term": "Shomen-ni-rei",
+      "pronunciation": "xo-me-n / ni / re-i",
+      "meaning": "Saudação à frente; ao shomen.",
+      "kihonGroups": [
+        "08"
+      ]
+    },
+    {
+      "term": "Sode",
+      "pronunciation": "so-de",
+      "meaning": "Manga do judogi.",
+      "kihonGroups": [
+        "05"
+      ]
+    },
+    {
+      "term": "Sotai-renshu",
+      "pronunciation": "so-ta-i / re-n-xu",
+      "meaning": "Prática em dupla.",
+      "kihonGroups": [
+        "11"
+      ]
+    },
+    {
+      "term": "Sukashi",
+      "pronunciation": "su-ca-xi",
+      "meaning": "Esquiva que neutraliza ou aproveita o ataque.",
+      "kihonGroups": [
+        "10"
+      ]
+    },
+    {
+      "term": "Suri-ashi",
+      "pronunciation": "su-ri / a-xi",
+      "meaning": "Deslocamento deslizando os pés.",
+      "kihonGroups": [
+        "02"
+      ]
+    },
+    {
+      "term": "Sutemi-waza",
+      "pronunciation": "su-te-mi / uá-za",
+      "meaning": "Técnicas de sacrifício, em que quem aplica aceita cair para projetar."
+    },
+    {
+      "term": "Tachi-waza",
+      "pronunciation": "ta-tchi / uá-za",
+      "meaning": "Técnicas em pé."
+    },
+    {
+      "term": "Tai-sabaki no Ne-waza",
+      "pronunciation": "ta-i / sa-ba-qui / no / ne / ua-za",
+      "meaning": "Movimentação do corpo no trabalho de solo.",
+      "kihonGroups": [
+        "09"
+      ]
+    },
+    {
+      "term": "Tandoku-renshu",
+      "pronunciation": "ta-n-do-cu / re-n-xu",
+      "meaning": "Treino individual, sem parceiro.",
+      "kihonGroups": [
+        "11"
+      ]
+    },
+    {
+      "term": "Tatami",
+      "pronunciation": "ta-ta-mi",
+      "meaning": "Esteira ou superfície de prática."
+    },
+    {
+      "term": "Tokui-waza",
+      "pronunciation": "to-cu-i / uá-za",
+      "meaning": "Técnica preferida ou de maior domínio."
+    },
+    {
+      "term": "Tori",
+      "pronunciation": "to-ri",
+      "meaning": "Quem executa a técnica em uma demonstração ou kata."
+    },
+    {
+      "term": "Tsugi-ashi",
+      "pronunciation": "tsu-gui / a-xi",
+      "meaning": "Passo de aproximação sem cruzar os pés.",
+      "kihonGroups": [
+        "02"
+      ]
+    },
+    {
+      "term": "Tsukuri",
+      "pronunciation": "tsu-cu-ri",
+      "meaning": "Preparação e encaixe da técnica.",
+      "kihonGroups": [
+        "07"
+      ]
+    },
+    {
+      "term": "Tsuri-te",
+      "pronunciation": "tsu-ri / te",
+      "meaning": "Mão que eleva ou conduz para cima.",
+      "kihonGroups": [
+        "05"
+      ]
+    },
+    {
+      "term": "Uchi-komi",
+      "pronunciation": "u-tchi / co-mi",
+      "meaning": "Repetição da entrada da técnica sem completar a projeção.",
+      "kihonGroups": [
+        "11"
+      ]
+    },
+    {
+      "term": "Uke",
+      "pronunciation": "u-que",
+      "meaning": "Quem recebe a técnica em uma demonstração ou kata."
+    },
+    {
+      "term": "Ukemi",
+      "pronunciation": "u-que-mi",
+      "meaning": "Técnicas de amortecimento e recepção de quedas.",
+      "kihonGroups": [
+        "06"
+      ]
+    },
+    {
+      "term": "Ushiro",
+      "pronunciation": "u-xi-ro",
+      "meaning": "Atrás; para trás.",
+      "kihonGroups": [
+        "02",
+        "04"
+      ]
+    },
+    {
+      "term": "Ushiro-mawari-komi",
+      "pronunciation": "u-xi-ro / ma-ua-ri / co-mi",
+      "meaning": "Entrada com giro para trás.",
+      "kihonGroups": [
+        "03"
+      ]
+    },
+    {
+      "term": "Ushiro-mawari-sabaki",
+      "pronunciation": "u-xi-ro / ma-ua-ri / sa-ba-qui",
+      "meaning": "Movimentação circular para trás.",
+      "kihonGroups": [
+        "03"
+      ]
+    },
+    {
+      "term": "Ushiro-mawari-ukemi",
+      "pronunciation": "u-xi-ro / ma-ua-ri / u-que-mi",
+      "meaning": "Rolamento de queda para trás.",
+      "kihonGroups": [
+        "06"
+      ]
+    },
+    {
+      "term": "Ushiro-sabaki",
+      "pronunciation": "u-xi-ro / sa-ba-qui",
+      "meaning": "Movimentação do corpo para trás.",
+      "kihonGroups": [
+        "03"
+      ]
+    },
+    {
+      "term": "Ushiro-ukemi",
+      "pronunciation": "u-xi-ro / u-que-mi",
+      "meaning": "Amortecimento de queda para trás.",
+      "kihonGroups": [
+        "06"
+      ]
+    },
+    {
+      "term": "Waza",
+      "pronunciation": "uá-za",
+      "meaning": "Técnica."
+    },
+    {
+      "term": "Waza-ari",
+      "pronunciation": "uá-za / a-ri",
+      "meaning": "Pontuação de alto valor, inferior ao ippon."
+    },
+    {
+      "term": "Yakusoku-geiko",
+      "pronunciation": "ia-cu-so-cu / gue-i-co",
+      "meaning": "Treino combinado, com ações previamente acordadas.",
+      "kihonGroups": [
+        "11"
+      ]
+    },
+    {
+      "term": "Yoko-mawari-ukemi",
+      "pronunciation": "io-co / ma-ua-ri / u-que-mi",
+      "meaning": "Rolamento lateral.",
+      "kihonGroups": [
+        "06"
+      ]
+    },
+    {
+      "term": "Yoko-ukemi",
+      "pronunciation": "iô-co / u-que-mi",
+      "meaning": "Amortecimento de queda lateral."
+    },
+    {
+      "term": "Yotsunbai",
+      "pronunciation": "io-tsu-n-ba-i",
+      "meaning": "Posição e deslocamento sobre quatro apoios.",
+      "kihonGroups": [
+        "09"
+      ]
+    },
+    {
+      "term": "Yuko",
+      "pronunciation": "iô-co",
+      "meaning": "Pontuação histórica; não integra a pontuação atual."
+    },
+    {
+      "term": "Zanshin",
+      "pronunciation": "za-n-xi-n",
+      "meaning": "Atenção e prontidão mantidas após a ação.",
+      "kihonGroups": [
+        "07"
+      ]
+    },
+    {
+      "term": "Zarei",
+      "pronunciation": "za-re-i",
+      "meaning": "Saudação ajoelhada.",
+      "kihonGroups": [
+        "08"
+      ]
+    },
+    {
+      "term": "Zempo-kaiten-ukemi",
+      "pronunciation": "ze-m-po / ca-i-te-n / u-que-mi",
+      "meaning": "Amortecimento de queda com rolamento para a frente.",
+      "kihonGroups": [
+        "06"
+      ]
+    }
+  ],
+  "kihonGroups": [
+    {
+      "id": "01",
+      "name": "Shisei",
+      "translation": "Posturas",
+      "items": [
+        {
+          "term": "Shisei",
+          "pronunciation": "xi-se-i",
+          "meaning": "Postura; posição corporal.",
+          "lookupTerm": "Shisei"
+        },
+        {
+          "term": "Shizen-hontai",
+          "pronunciation": "xi-ze-n / ho-n-ta-i",
+          "meaning": "Postura natural básica.",
+          "lookupTerm": "Shizen-hontai"
+        },
+        {
+          "term": "Migi-shizentai",
+          "pronunciation": "mi-gui / xi-ze-n-ta-i",
+          "meaning": "Postura natural à direita.",
+          "lookupTerm": "Migi-shizentai"
+        },
+        {
+          "term": "Hidari-shizentai",
+          "pronunciation": "hi-da-ri / xi-ze-n-ta-i",
+          "meaning": "Postura natural à esquerda.",
+          "lookupTerm": "Hidari-shizentai"
+        },
+        {
+          "term": "Jigo-hontai",
+          "pronunciation": "dji-o / ho-n-ta-i",
+          "meaning": "Postura defensiva básica.",
+          "lookupTerm": "Jigo-hontai"
+        },
+        {
+          "term": "Migi-jigotai",
+          "pronunciation": "mi-gui / dji-o-ta-i",
+          "meaning": "Postura defensiva à direita.",
+          "lookupTerm": "Migi-jigotai"
+        },
+        {
+          "term": "Hidari-jigotai",
+          "pronunciation": "hi-da-ri / dji-o-ta-i",
+          "meaning": "Postura defensiva à esquerda.",
+          "lookupTerm": "Hidari-jigotai"
+        },
+        {
+          "term": "Shizen-tai",
+          "pronunciation": "xi-ze-n / ta-i",
+          "meaning": "Postura natural.",
+          "lookupTerm": "Shizen-tai"
+        },
+        {
+          "term": "Jigo-tai",
+          "pronunciation": "dji-o / ta-i",
+          "meaning": "Postura defensiva.",
+          "lookupTerm": "Jigotai"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "name": "Shintai",
+      "translation": "Deslocamentos",
+      "items": [
+        {
+          "term": "Shintai",
+          "pronunciation": "xi-n-ta-i",
+          "meaning": "Deslocamento corporal.",
+          "lookupTerm": "Shintai"
+        },
+        {
+          "term": "Ayumi-ashi",
+          "pronunciation": "a-iu-mi / a-xi",
+          "meaning": "Passada alternada; caminhar natural.",
+          "lookupTerm": "Ayumi-ashi"
+        },
+        {
+          "term": "Tsugi-ashi",
+          "pronunciation": "tsu-gui / a-xi",
+          "meaning": "Passo de aproximação sem cruzar os pés.",
+          "lookupTerm": "Tsugi-ashi"
+        },
+        {
+          "term": "Suri-ashi",
+          "pronunciation": "su-ri / a-xi",
+          "meaning": "Deslocamento com os pés deslizando.",
+          "lookupTerm": "Suri-ashi"
+        },
+        {
+          "term": "Mae",
+          "pronunciation": "ma-e",
+          "meaning": "Frente; para a frente.",
+          "lookupTerm": "Mae"
+        },
+        {
+          "term": "Ushiro",
+          "pronunciation": "u-xi-ro",
+          "meaning": "Atrás; para trás.",
+          "lookupTerm": "Ushiro"
+        },
+        {
+          "term": "Migi",
+          "pronunciation": "mi-gui",
+          "meaning": "Direita; para a direita.",
+          "lookupTerm": "Migi"
+        },
+        {
+          "term": "Hidari",
+          "pronunciation": "hi-da-ri",
+          "meaning": "Esquerda; para a esquerda.",
+          "lookupTerm": "Hidari"
+        },
+        {
+          "term": "Naname-mae",
+          "pronunciation": "na-na-me / ma-e",
+          "meaning": "Diagonal para a frente.",
+          "lookupTerm": "Naname-mae"
+        },
+        {
+          "term": "Naname-ushiro",
+          "pronunciation": "na-na-me / u-xi-ro",
+          "meaning": "Diagonal para trás.",
+          "lookupTerm": "Naname-ushiro"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "name": "Tai-sabaki",
+      "translation": "Movimentação do corpo",
+      "items": [
+        {
+          "term": "Mae-sabaki",
+          "pronunciation": "ma-e / sa-ba-qui",
+          "meaning": "Movimentação do corpo para a frente.",
+          "lookupTerm": "Mae-sabaki"
+        },
+        {
+          "term": "Ushiro-sabaki",
+          "pronunciation": "u-xi-ro / sa-ba-qui",
+          "meaning": "Movimentação do corpo para trás.",
+          "lookupTerm": "Ushiro-sabaki"
+        },
+        {
+          "term": "Migi-mae-sabaki",
+          "pronunciation": "mi-gui / ma-e / sa-ba-qui",
+          "meaning": "Movimentação diagonal à direita e à frente.",
+          "lookupTerm": "Migi-mae-sabaki"
+        },
+        {
+          "term": "Hidari-mae-sabaki",
+          "pronunciation": "hi-da-ri / ma-e / sa-ba-qui",
+          "meaning": "Movimentação diagonal à esquerda e à frente.",
+          "lookupTerm": "Hidari-mae-sabaki"
+        },
+        {
+          "term": "Migi-ushiro-sabaki",
+          "pronunciation": "mi-gui / u-xi-ro / sa-ba-qui",
+          "meaning": "Movimentação diagonal à direita e para trás.",
+          "lookupTerm": "Migi-ushiro-sabaki"
+        },
+        {
+          "term": "Hidari-ushiro-sabaki",
+          "pronunciation": "hi-da-ri / u-xi-ro / sa-ba-qui",
+          "meaning": "Movimentação diagonal à esquerda e para trás.",
+          "lookupTerm": "Hidari-ushiro-sabaki"
+        },
+        {
+          "term": "Mae-mawari-sabaki",
+          "pronunciation": "ma-e / ma-ua-ri / sa-ba-qui",
+          "meaning": "Movimentação circular para a frente.",
+          "lookupTerm": "Mae-mawari-sabaki"
+        },
+        {
+          "term": "Ushiro-mawari-sabaki",
+          "pronunciation": "u-xi-ro / ma-ua-ri / sa-ba-qui",
+          "meaning": "Movimentação circular para trás.",
+          "lookupTerm": "Ushiro-mawari-sabaki"
+        },
+        {
+          "term": "Migi-mawari-sabaki",
+          "pronunciation": "mi-gui / ma-ua-ri / sa-ba-qui",
+          "meaning": "Movimentação circular para a direita.",
+          "lookupTerm": "Migi-mawari-sabaki"
+        },
+        {
+          "term": "Hidari-mawari-sabaki",
+          "pronunciation": "hi-da-ri / ma-ua-ri / sa-ba-qui",
+          "meaning": "Movimentação circular para a esquerda.",
+          "lookupTerm": "Hidari-mawari-sabaki"
+        },
+        {
+          "term": "Mae-mawari-komi",
+          "pronunciation": "ma-e / ma-ua-ri / co-mi",
+          "meaning": "Entrada com giro para a frente.",
+          "lookupTerm": "Mae-mawari-komi"
+        },
+        {
+          "term": "Ushiro-mawari-komi",
+          "pronunciation": "u-xi-ro / ma-ua-ri / co-mi",
+          "meaning": "Entrada com giro para trás.",
+          "lookupTerm": "Ushiro-mawari-komi"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "name": "Kuzushi",
+      "translation": "Desequilíbrio",
+      "items": [
+        {
+          "term": "Kuzushi",
+          "pronunciation": "cu-zu-xi",
+          "meaning": "Desequilíbrio; quebra do equilíbrio.",
+          "lookupTerm": "Kuzushi"
+        },
+        {
+          "term": "Happō-no-kuzushi",
+          "pronunciation": "ha-p-pô / no / cu-zu-xi",
+          "meaning": "Desequilíbrio nas oito direções.",
+          "lookupTerm": "Happō-no-kuzushi"
+        },
+        {
+          "term": "Mae",
+          "pronunciation": "ma-e",
+          "meaning": "Para a frente.",
+          "lookupTerm": "Mae"
+        },
+        {
+          "term": "Ushiro",
+          "pronunciation": "u-xi-ro",
+          "meaning": "Para trás.",
+          "lookupTerm": "Ushiro"
+        },
+        {
+          "term": "Migi",
+          "pronunciation": "mi-gui",
+          "meaning": "Para a direita.",
+          "lookupTerm": "Migi"
+        },
+        {
+          "term": "Hidari",
+          "pronunciation": "hi-da-ri",
+          "meaning": "Para a esquerda.",
+          "lookupTerm": "Hidari"
+        },
+        {
+          "term": "Migi-mae-sumi",
+          "pronunciation": "mi-gui / ma-e / su-mi",
+          "meaning": "Diagonal do canto frontal direito.",
+          "lookupTerm": "Migi-mae-sumi"
+        },
+        {
+          "term": "Hidari-mae-sumi",
+          "pronunciation": "hi-da-ri / ma-e / su-mi",
+          "meaning": "Diagonal do canto frontal esquerdo.",
+          "lookupTerm": "Hidari-mae-sumi"
+        },
+        {
+          "term": "Migi-ushiro-sumi",
+          "pronunciation": "mi-gui / u-xi-ro / su-mi",
+          "meaning": "Diagonal do canto traseiro direito.",
+          "lookupTerm": "Migi-ushiro-sumi"
+        },
+        {
+          "term": "Hidari-ushiro-sumi",
+          "pronunciation": "hi-da-ri / u-xi-ro / su-mi",
+          "meaning": "Diagonal do canto traseiro esquerdo.",
+          "lookupTerm": "Hidari-ushiro-sumi"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "name": "Kumi-kata",
+      "translation": "Pegadas",
+      "items": [
+        {
+          "term": "Kumi-kata",
+          "pronunciation": "cu-mi / ca-ta",
+          "meaning": "Forma de pegar; organização das pegadas.",
+          "lookupTerm": "Kumi-kata"
+        },
+        {
+          "term": "Hon-kumi-kata",
+          "pronunciation": "ho-n / cu-mi / ca-ta",
+          "meaning": "Pegada básica.",
+          "lookupTerm": "Hon-kumi-kata"
+        },
+        {
+          "term": "Migi-kumi-kata",
+          "pronunciation": "mi-gui / cu-mi / ca-ta",
+          "meaning": "Pegada à direita.",
+          "lookupTerm": "Migi-kumi-kata"
+        },
+        {
+          "term": "Hidari-kumi-kata",
+          "pronunciation": "hi-da-ri / cu-mi / ca-ta",
+          "meaning": "Pegada à esquerda.",
+          "lookupTerm": "Hidari-kumi-kata"
+        },
+        {
+          "term": "Ai-yotsu",
+          "pronunciation": "a-i / io-tsu",
+          "meaning": "Pegadas no mesmo lado.",
+          "lookupTerm": "Ai-yotsu"
+        },
+        {
+          "term": "Kenka-yotsu",
+          "pronunciation": "que-n-ca / io-tsu",
+          "meaning": "Pegadas em lados opostos.",
+          "lookupTerm": "Kenka-yotsu"
+        },
+        {
+          "term": "Hiki-te",
+          "pronunciation": "hi-qui / te",
+          "meaning": "Mão que puxa.",
+          "lookupTerm": "Hiki-te"
+        },
+        {
+          "term": "Tsuri-te",
+          "pronunciation": "tsu-ri / te",
+          "meaning": "Mão que eleva ou conduz para cima.",
+          "lookupTerm": "Tsuri-te"
+        },
+        {
+          "term": "Eri",
+          "pronunciation": "e-ri",
+          "meaning": "Gola.",
+          "lookupTerm": "Eri"
+        },
+        {
+          "term": "Sode",
+          "pronunciation": "so-de",
+          "meaning": "Manga.",
+          "lookupTerm": "Sode"
+        },
+        {
+          "term": "Oku-eri",
+          "pronunciation": "o-cu / e-ri",
+          "meaning": "Gola mais distante; gola do lado oposto.",
+          "lookupTerm": "Oku-eri"
+        },
+        {
+          "term": "Obi",
+          "pronunciation": "o-bi",
+          "meaning": "Faixa/cinto.",
+          "lookupTerm": "Obi"
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "name": "Ukemi",
+      "translation": "Amortecimentos de queda",
+      "items": [
+        {
+          "term": "Ukemi",
+          "pronunciation": "u-que-mi",
+          "meaning": "Amortecimento e recepção das quedas.",
+          "lookupTerm": "Ukemi"
+        },
+        {
+          "term": "Ushiro-ukemi",
+          "pronunciation": "u-xi-ro / u-que-mi",
+          "meaning": "Queda para trás.",
+          "lookupTerm": "Ushiro-ukemi"
+        },
+        {
+          "term": "Migi-yoko-ukemi",
+          "pronunciation": "mi-gui / io-co / u-que-mi",
+          "meaning": "Queda lateral para a direita.",
+          "lookupTerm": "Migi-yoko-ukemi"
+        },
+        {
+          "term": "Hidari-yoko-ukemi",
+          "pronunciation": "hi-da-ri / io-co / u-que-mi",
+          "meaning": "Queda lateral para a esquerda.",
+          "lookupTerm": "Hidari-yoko-ukemi"
+        },
+        {
+          "term": "Mae-ukemi",
+          "pronunciation": "ma-e / u-que-mi",
+          "meaning": "Queda para a frente.",
+          "lookupTerm": "Mae-ukemi"
+        },
+        {
+          "term": "Mae-mawari-ukemi",
+          "pronunciation": "ma-e / ma-ua-ri / u-que-mi",
+          "meaning": "Queda com rolamento para a frente.",
+          "lookupTerm": "Mae-mawari-ukemi"
+        },
+        {
+          "term": "Migi-mae-mawari-ukemi",
+          "pronunciation": "mi-gui / ma-e / ma-ua-ri / u-que-mi",
+          "meaning": "Rolamento de queda para a frente, à direita.",
+          "lookupTerm": "Migi-mae-mawari-ukemi"
+        },
+        {
+          "term": "Hidari-mae-mawari-ukemi",
+          "pronunciation": "hi-da-ri / ma-e / ma-ua-ri / u-que-mi",
+          "meaning": "Rolamento de queda para a frente, à esquerda.",
+          "lookupTerm": "Hidari-mae-mawari-ukemi"
+        },
+        {
+          "term": "Ushiro-mawari-ukemi",
+          "pronunciation": "u-xi-ro / ma-ua-ri / u-que-mi",
+          "meaning": "Rolamento de queda para trás.",
+          "lookupTerm": "Ushiro-mawari-ukemi"
+        },
+        {
+          "term": "Yoko-mawari-ukemi",
+          "pronunciation": "io-co / ma-ua-ri / u-que-mi",
+          "meaning": "Rolamento lateral.",
+          "lookupTerm": "Yoko-mawari-ukemi"
+        },
+        {
+          "term": "Zempō-kaiten-ukemi",
+          "pronunciation": "ze-m-pô / ca-i-te-n / u-que-mi",
+          "meaning": "Queda com rolamento circular para a frente.",
+          "lookupTerm": "Zempo-kaiten-ukemi"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "name": "Kuzushi · Tsukuri · Kake",
+      "translation": "Desequilíbrio · preparação · execução",
+      "items": [
+        {
+          "term": "Kuzushi",
+          "pronunciation": "cu-zu-xi",
+          "meaning": "Desequilíbrio; quebra do equilíbrio.",
+          "lookupTerm": "Kuzushi"
+        },
+        {
+          "term": "Tsukuri",
+          "pronunciation": "tsu-cu-ri",
+          "meaning": "Preparação e encaixe para a técnica.",
+          "lookupTerm": "Tsukuri"
+        },
+        {
+          "term": "Kake",
+          "pronunciation": "ca-que",
+          "meaning": "Execução final da técnica.",
+          "lookupTerm": "Kake"
+        },
+        {
+          "term": "Kime",
+          "pronunciation": "qui-me",
+          "meaning": "Foco e determinação na execução.",
+          "lookupTerm": "Kime"
+        },
+        {
+          "term": "Zanshin",
+          "pronunciation": "za-n-xi-n",
+          "meaning": "Atenção e prontidão mantidas após a ação.",
+          "lookupTerm": "Zanshin"
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "name": "Reigi · Reiho",
+      "translation": "Etiqueta e saudações",
+      "items": [
+        {
+          "term": "Rei",
+          "pronunciation": "re-i",
+          "meaning": "Saudação; reverência.",
+          "lookupTerm": "Rei"
+        },
+        {
+          "term": "Ritsu-rei / Tachi-rei",
+          "pronunciation": "ri-tsu / re-i / ta-tchi / re-i",
+          "meaning": "Saudação em pé.",
+          "lookupTerm": "Ritsu-rei / Tachi-rei"
+        },
+        {
+          "term": "Za-rei",
+          "pronunciation": "za / re-i",
+          "meaning": "Saudação ajoelhada.",
+          "lookupTerm": "Zarei"
+        },
+        {
+          "term": "Seiza",
+          "pronunciation": "se-i-za",
+          "meaning": "Posição formal ajoelhada.",
+          "lookupTerm": "Seiza"
+        },
+        {
+          "term": "Anza",
+          "pronunciation": "a-n-za",
+          "meaning": "Posição sentada informal, com as pernas cruzadas.",
+          "lookupTerm": "Anza"
+        },
+        {
+          "term": "Chokuritsu",
+          "pronunciation": "tcho-cu-ri-tsu",
+          "meaning": "Posição ereta de atenção.",
+          "lookupTerm": "Chokuritsu"
+        },
+        {
+          "term": "Shomen-ni-rei",
+          "pronunciation": "xo-me-n / ni / re-i",
+          "meaning": "Saudação à frente; ao shomen.",
+          "lookupTerm": "Shomen-ni-rei"
+        },
+        {
+          "term": "Sensei-ni-rei",
+          "pronunciation": "se-n-se-i / ni / re-i",
+          "meaning": "Saudação ao professor.",
+          "lookupTerm": "Sensei-ni-rei"
+        },
+        {
+          "term": "Otagai-ni-rei",
+          "pronunciation": "o-ta-a-i / ni / re-i",
+          "meaning": "Saudação mútua entre praticantes.",
+          "lookupTerm": "Otagai-ni-rei"
+        },
+        {
+          "term": "Mokuso",
+          "pronunciation": "mo-cu-so",
+          "meaning": "Meditação ou concentração silenciosa.",
+          "lookupTerm": "Mokuso"
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "name": "Ne-waza",
+      "translation": "Técnicas no solo",
+      "items": [
+        {
+          "term": "Shisei no Ne-waza",
+          "pronunciation": "xi-se-i / no / ne / ua-za",
+          "meaning": "Postura no trabalho de solo.",
+          "lookupTerm": "Shisei no Ne-waza"
+        },
+        {
+          "term": "Shikō",
+          "pronunciation": "xi-cô",
+          "meaning": "Deslocamento ajoelhado.",
+          "lookupTerm": "Shikō"
+        },
+        {
+          "term": "Ebi",
+          "pronunciation": "e-bi",
+          "meaning": "Movimento de quadril conhecido como “camarão”.",
+          "lookupTerm": "Ebi"
+        },
+        {
+          "term": "Gyaku-ebi",
+          "pronunciation": "guia-cu / e-bi",
+          "meaning": "Movimento invertido de “camarão”.",
+          "lookupTerm": "Gyaku-ebi"
+        },
+        {
+          "term": "Tai-sabaki no Ne-waza",
+          "pronunciation": "ta-i / sa-ba-qui / no / ne / ua-za",
+          "meaning": "Movimentação do corpo no trabalho de solo.",
+          "lookupTerm": "Tai-sabaki no Ne-waza"
+        },
+        {
+          "term": "Yotsunbai",
+          "pronunciation": "io-tsu-n-ba-i",
+          "meaning": "Posição e deslocamento sobre quatro apoios.",
+          "lookupTerm": "Yotsunbai"
+        },
+        {
+          "term": "Kame",
+          "pronunciation": "ca-me",
+          "meaning": "Posição defensiva “tartaruga”.",
+          "lookupTerm": "Kame"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Renraku-waza · Renzoku-waza · Kaeshi-waza",
+      "translation": "Combinações · continuidade · contra-ataques",
+      "items": [
+        {
+          "term": "Renraku-waza",
+          "pronunciation": "re-n-ra-cu / ua-za",
+          "meaning": "Combinação de técnicas diferentes.",
+          "lookupTerm": "Renraku-waza"
+        },
+        {
+          "term": "Renzoku-waza",
+          "pronunciation": "re-n-zo-cu / ua-za",
+          "meaning": "Ataque contínuo ou repetição encadeada.",
+          "lookupTerm": "Renzoku-waza"
+        },
+        {
+          "term": "Kaeshi-waza",
+          "pronunciation": "ca-e-xi / ua-za",
+          "meaning": "Técnicas de contra-ataque.",
+          "lookupTerm": "Kaeshi-waza"
+        },
+        {
+          "term": "Bōgyo",
+          "pronunciation": "bô-guio",
+          "meaning": "Defesa.",
+          "lookupTerm": "Bōgyo"
+        },
+        {
+          "term": "Fusegi",
+          "pronunciation": "fu-se-gui",
+          "meaning": "Ação de defender-se ou escapar.",
+          "lookupTerm": "Fusegi"
+        },
+        {
+          "term": "Sukashi",
+          "pronunciation": "su-ca-xi",
+          "meaning": "Esquiva que neutraliza ou aproveita o ataque.",
+          "lookupTerm": "Sukashi"
+        },
+        {
+          "term": "Henka-waza",
+          "pronunciation": "he-n-ca / ua-za",
+          "meaning": "Técnica de variação ou mudança.",
+          "lookupTerm": "Henka-waza"
+        },
+        {
+          "term": "Sen",
+          "pronunciation": "se-n",
+          "meaning": "Iniciativa.",
+          "lookupTerm": "Sen"
+        },
+        {
+          "term": "Go-no-sen",
+          "pronunciation": "o / no / se-n",
+          "meaning": "Iniciativa após o ataque do parceiro.",
+          "lookupTerm": "Go-no-sen"
+        },
+        {
+          "term": "Sen-no-sen",
+          "pronunciation": "se-n / no / se-n",
+          "meaning": "Iniciativa simultânea ao início do ataque.",
+          "lookupTerm": "Sen-no-sen"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Keiko",
+      "translation": "Treino",
+      "items": [
+        {
+          "term": "Tandoku-renshu",
+          "pronunciation": "ta-n-do-cu / re-n-xu",
+          "meaning": "Treino individual, sem parceiro.",
+          "lookupTerm": "Tandoku-renshu"
+        },
+        {
+          "term": "Sotai-renshu",
+          "pronunciation": "so-ta-i / re-n-xu",
+          "meaning": "Treino em dupla ou com parceiro.",
+          "lookupTerm": "Sotai-renshu"
+        },
+        {
+          "term": "Uchi-komi",
+          "pronunciation": "u-tchi / co-mi",
+          "meaning": "Repetição de entradas da técnica.",
+          "lookupTerm": "Uchi-komi"
+        },
+        {
+          "term": "Nage-komi",
+          "pronunciation": "na-gue / co-mi",
+          "meaning": "Repetição da projeção completa.",
+          "lookupTerm": "Nagekomi"
+        },
+        {
+          "term": "Butsukari",
+          "pronunciation": "bu-tsu-ca-ri",
+          "meaning": "Exercício repetido de entrada com pressão ou resistência.",
+          "lookupTerm": "Butsukari"
+        },
+        {
+          "term": "Yakusoku-geiko",
+          "pronunciation": "ia-cu-so-cu / gue-i-co",
+          "meaning": "Treino combinado, com ações previamente acordadas.",
+          "lookupTerm": "Yakusoku-geiko"
+        },
+        {
+          "term": "Kakari-geiko",
+          "pronunciation": "ca-ca-ri / gue-i-co",
+          "meaning": "Treino de ataque contínuo, com papéis definidos.",
+          "lookupTerm": "Kakari-geiko"
+        },
+        {
+          "term": "Randori",
+          "pronunciation": "ra-n-do-ri",
+          "meaning": "Prática livre com parceiro.",
+          "lookupTerm": "Randori"
+        },
+        {
+          "term": "Shiai",
+          "pronunciation": "xi-a-i",
+          "meaning": "Competição; combate.",
+          "lookupTerm": "Shiai"
+        },
+        {
+          "term": "Kata",
+          "pronunciation": "ca-ta",
+          "meaning": "Forma ou sequência formal de técnicas.",
+          "lookupTerm": "Kata"
+        }
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": 1,
+      "romanization": "ichi",
+      "pronunciation": "i-tchi",
+      "meaning": "Um",
+      "group": "1 a 10"
+    },
+    {
+      "value": 2,
+      "romanization": "ni",
+      "pronunciation": "ni",
+      "meaning": "Dois",
+      "group": "1 a 10"
+    },
+    {
+      "value": 3,
+      "romanization": "san",
+      "pronunciation": "san",
+      "meaning": "Três",
+      "group": "1 a 10"
+    },
+    {
+      "value": 4,
+      "romanization": "shi ou yon",
+      "pronunciation": "xi ou yon",
+      "meaning": "Quatro; yon é a leitura mais comum no dia a dia.",
+      "group": "1 a 10"
+    },
+    {
+      "value": 5,
+      "romanization": "go",
+      "pronunciation": "go",
+      "meaning": "Cinco",
+      "group": "1 a 10"
+    },
+    {
+      "value": 6,
+      "romanization": "roku",
+      "pronunciation": "ro-cu",
+      "meaning": "Seis",
+      "group": "1 a 10"
+    },
+    {
+      "value": 7,
+      "romanization": "shichi ou nana",
+      "pronunciation": "xi-tchi ou na-na",
+      "meaning": "Sete; nana é muito usada no dia a dia.",
+      "group": "1 a 10"
+    },
+    {
+      "value": 8,
+      "romanization": "hachi",
+      "pronunciation": "ha-tchi",
+      "meaning": "Oito",
+      "group": "1 a 10"
+    },
+    {
+      "value": 9,
+      "romanization": "kyuu",
+      "pronunciation": "kiú",
+      "meaning": "Nove",
+      "group": "1 a 10"
+    },
+    {
+      "value": 10,
+      "romanization": "juu",
+      "pronunciation": "djuu",
+      "meaning": "Dez",
+      "group": "1 a 10"
+    },
+    {
+      "value": 11,
+      "romanization": "juuichi",
+      "pronunciation": "djuu-i-tchi",
+      "meaning": "Onze",
+      "group": "11 a 19"
+    },
+    {
+      "value": 12,
+      "romanization": "juuni",
+      "pronunciation": "djuu-ni",
+      "meaning": "Doze",
+      "group": "11 a 19"
+    },
+    {
+      "value": 13,
+      "romanization": "juusan",
+      "pronunciation": "djuu-san",
+      "meaning": "Treze",
+      "group": "11 a 19"
+    },
+    {
+      "value": 14,
+      "romanization": "juuyon",
+      "pronunciation": "djuu-yon",
+      "meaning": "Quatorze",
+      "group": "11 a 19"
+    },
+    {
+      "value": 15,
+      "romanization": "juugo",
+      "pronunciation": "djuu-go",
+      "meaning": "Quinze",
+      "group": "11 a 19"
+    },
+    {
+      "value": 16,
+      "romanization": "juuroku",
+      "pronunciation": "djuu-ro-ku",
+      "meaning": "Dezesseis",
+      "group": "11 a 19"
+    },
+    {
+      "value": 17,
+      "romanization": "juunana",
+      "pronunciation": "djuu-na-na",
+      "meaning": "Dezessete",
+      "group": "11 a 19"
+    },
+    {
+      "value": 18,
+      "romanization": "juuhachi",
+      "pronunciation": "djuu-ha-tchi",
+      "meaning": "Dezoito",
+      "group": "11 a 19"
+    },
+    {
+      "value": 19,
+      "romanization": "juukyuu",
+      "pronunciation": "djuu-kiú",
+      "meaning": "Dezenove",
+      "group": "11 a 19"
+    },
+    {
+      "value": 20,
+      "romanization": "nijuu",
+      "pronunciation": "ni-djuu",
+      "meaning": "Vinte",
+      "group": "Dezenas e 100"
+    },
+    {
+      "value": 30,
+      "romanization": "sanjuu",
+      "pronunciation": "san-djuu",
+      "meaning": "Trinta",
+      "group": "Dezenas e 100"
+    },
+    {
+      "value": 40,
+      "romanization": "yonjuu",
+      "pronunciation": "yon-djuu",
+      "meaning": "Quarenta",
+      "group": "Dezenas e 100"
+    },
+    {
+      "value": 50,
+      "romanization": "gojuu",
+      "pronunciation": "go-djuu",
+      "meaning": "Cinquenta",
+      "group": "Dezenas e 100"
+    },
+    {
+      "value": 60,
+      "romanization": "rokujuu",
+      "pronunciation": "ro-ku-djuu",
+      "meaning": "Sessenta",
+      "group": "Dezenas e 100"
+    },
+    {
+      "value": 70,
+      "romanization": "nanajuu",
+      "pronunciation": "na-na-djuu",
+      "meaning": "Setenta",
+      "group": "Dezenas e 100"
+    },
+    {
+      "value": 80,
+      "romanization": "hachijuu",
+      "pronunciation": "ha-tchi-djuu",
+      "meaning": "Oitenta",
+      "group": "Dezenas e 100"
+    },
+    {
+      "value": 90,
+      "romanization": "kyuujuu",
+      "pronunciation": "kiú-djuu",
+      "meaning": "Noventa",
+      "group": "Dezenas e 100"
+    },
+    {
+      "value": 100,
+      "romanization": "hyaku",
+      "pronunciation": "hiá-ku",
+      "meaning": "Cem",
+      "group": "Dezenas e 100"
+    },
+    {
+      "value": 24,
+      "romanization": "nijuuyon",
+      "pronunciation": "ni-djuu-yon",
+      "meaning": "Exemplo: 20 (nijuu) + 4 (yon) = 24 (nijuuyon). Mostra o padrão dezena + unidade; não é o próximo item da sequência.",
+      "group": "Exemplos de composição"
+    },
+    {
+      "value": 67,
+      "romanization": "rokujuunana",
+      "pronunciation": "ro-ku-djuu-na-na",
+      "meaning": "Exemplo: 60 (rokujuu) + 7 (nana) = 67 (rokujuunana). Mostra o padrão dezena + unidade; não é o próximo item da sequência.",
+      "group": "Exemplos de composição"
+    },
+    {
+      "value": 99,
+      "romanization": "kyuujuukyuu",
+      "pronunciation": "kiú-djuu-kiú",
+      "meaning": "Exemplo: 90 (kyuujuu) + 9 (kyuu) = 99 (kyuujuukyuu). Mostra o padrão dezena + unidade; não é o próximo item da sequência.",
+      "group": "Exemplos de composição"
+    }
+  ],
+  "numberNotes": [
+    {
+      "title": "Como contar de 11 a 19",
+      "text": "Diga juu (10) e acrescente a unidade: 14 = juu + yon → juuyon."
+    },
+    {
+      "title": "Como formar as dezenas",
+      "text": "Diga a unidade multiplicadora seguida de juu: 40 = yon + juu → yonjuu."
+    },
+    {
+      "title": "Como formar os números intermediários",
+      "text": "Estes são exemplos selecionados para mostrar a composição (dezena + unidade), não uma continuação da lista em ordem: 24 = 20 (nijuu) + 4 (yon) → nijuuyon; 67 = 60 (rokujuu) + 7 (nana) → rokujuunana; 99 = 90 (kyuujuu) + 9 (kyuu) → kyuujuukyuu."
+    },
+    {
+      "title": "Leituras de 4 e 7",
+      "text": "Yon (よん) é a leitura cotidiana mais comum de 4; shi (し), de origem chinesa, aparece em compostos como shiki e shigatsu. Nana (なな) é muito usada no dia a dia para 7; shichi (しち), de origem chinesa, aparece em contextos específicos e compostos."
+    }
+  ],
+  "voiceReadings": {
+    "techniques": {
+      "1": "ipon sêoi naguê",
+      "2": "cata guruma",
+      "3": "quibisu gaêchi",
+      "4": "co utchi gaêchi",
+      "5": "cutchiqui taochi",
+      "6": "morotê gari",
+      "7": "obi otochi",
+      "8": "obi tori gaêchi",
+      "9": "sêoi naguê",
+      "10": "sêoi otochi",
+      "11": "sucui naguê",
+      "12": "sumi otochi",
+      "13": "tai otochi",
+      "14": "utchi mata sucachi",
+      "15": "uqui otochi",
+      "16": "iáma arachi",
+      "17": "ranê gochi",
+      "18": "rarai gochi",
+      "19": "cochi guruma",
+      "20": "o gochi",
+      "21": "sodê tsuricomi gochi",
+      "22": "tsuri gochi",
+      "23": "tsuricomi gochi",
+      "24": "uqui gochi",
+      "25": "uchiro gochi",
+      "26": "utsuri gochi",
+      "27": "achi guruma",
+      "28": "dê achi rarai",
+      "29": "ranê gochi gaêchi",
+      "30": "rarai gochi gaêchi",
+      "31": "rarai tsuricomi achi",
+      "32": "riza guruma",
+      "33": "co soto gaquê",
+      "34": "co soto gari",
+      "35": "co utchi gari",
+      "36": "o guruma",
+      "37": "o soto gaêchi",
+      "38": "o soto gari",
+      "39": "o soto guruma",
+      "40": "o soto otochi",
+      "41": "o utchi gaêchi",
+      "42": "o utchi gari",
+      "43": "ocuri achi rarai",
+      "44": "sasaê tsuricomi achi",
+      "45": "tsubamê gaêchi",
+      "46": "utchi mata",
+      "47": "utchi mata gaêchi",
+      "48": "riquicomi gaêchi",
+      "49": "sumi gaêchi",
+      "50": "tauára gaêchi",
+      "51": "tomoê naguê",
+      "52": "ura naguê",
+      "53": "daqui uácarê",
+      "54": "ranê maquicomi",
+      "55": "rarai maquicomi",
+      "56": "cani basami",
+      "57": "cauázu gaquê",
+      "58": "co utchi maquicomi",
+      "59": "o soto maquicomi",
+      "60": "soto maquicomi",
+      "61": "tani otochi",
+      "62": "utchi maquicomi",
+      "63": "utchi mata maquicomi",
+      "64": "uqui uáza",
+      "65": "iôco gaquê",
+      "66": "iôco guruma",
+      "67": "iôco otochi",
+      "68": "iôco uácarê",
+      "69": "cami chiho gatamê",
+      "70": "cata gatamê",
+      "71": "quêsa gatamê",
+      "72": "cuzurê cami chiho gatamê",
+      "73": "cuzurê quêsa gatamê",
+      "74": "tatê chiho gatamê",
+      "75": "uqui gatamê",
+      "76": "ura gatamê",
+      "77": "uchiro quêsa gatamê",
+      "78": "iôco chiho gatamê",
+      "79": "do djimê",
+      "80": "guiácu djudji djimê",
+      "81": "radaca djimê",
+      "82": "cata djudji djimê",
+      "83": "cataha djimê",
+      "84": "catatê djimê",
+      "85": "nami djudji djimê",
+      "86": "ocuri êri djimê",
+      "87": "riótê djimê",
+      "88": "sancacu djimê",
+      "89": "sodê guruma djimê",
+      "90": "tsukcomi djimê",
+      "91": "achi garami",
+      "92": "udê garami",
+      "93": "udê richigui achi gatamê",
+      "94": "udê richigui rara gatamê",
+      "95": "udê richigui riza gatamê",
+      "96": "udê richigui djudji gatamê",
+      "97": "udê richigui sancacu gatamê",
+      "98": "udê richigui tê gatamê",
+      "99": "udê richigui udê gatamê",
+      "100": "udê richigui uáqui gatamê"
+    },
+    "terms": {
+      "Ai-yotsu": "ai iotsu",
+      "Anza": "anza",
+      "Ashi-waza": "achi uáza",
+      "Atemi-waza": "atêmi uáza",
+      "Ayumi-ashi": "aiômi achi",
+      "Bōgyo": "bôguio",
+      "Budo": "budo",
+      "Butsukari": "butsucari",
+      "Chokuritsu": "tchocuritsu",
+      "Dan": "dan",
+      "Dojo": "dodjô",
+      "Ebi": "êbi",
+      "Eri": "êri",
+      "Fusegi": "fusêgui",
+      "Go-no-sen": "o no sên",
+      "Gyaku-ebi": "guiacu êbi",
+      "Hajime": "radjimê",
+      "Hansoku-make": "ransocu maquê",
+      "Hantei": "rantêi",
+      "Happō-no-kuzushi": "rappô no cuzuchi",
+      "Henka-waza": "rênca uaza",
+      "Hidari": "ridari",
+      "Hidari-jigotai": "ridari djiotai",
+      "Hidari-kumi-kata": "ridari cumi cata",
+      "Hidari-mae-mawari-ukemi": "ridari maê mauari uquêmi",
+      "Hidari-mae-sabaki": "ridari maê sabaqui",
+      "Hidari-mae-sumi": "ridari maê sumi",
+      "Hidari-mawari-sabaki": "ridari mauari sabaqui",
+      "Hidari-shizentai": "ridari chizêntai",
+      "Hidari-ushiro-sabaki": "ridari uchiro sabaqui",
+      "Hidari-ushiro-sumi": "ridari uchiro sumi",
+      "Hidari-yoko-ukemi": "ridari ioco uquêmi",
+      "Hiki-te": "riqui tê",
+      "Hikkomi": "rikcomi",
+      "Hon-kumi-kata": "ron cumi cata",
+      "Ippon": "ippon",
+      "Jigo-hontai": "djio rontai",
+      "Jigotai": "djigotai",
+      "Jita-kyoei": "djita quióêi",
+      "Judo": "djudo",
+      "Judogi": "djudogui",
+      "Judoka": "djudoca",
+      "Ju-no-ri": "dju no ri",
+      "Kachi": "catchi",
+      "Kaeshi-waza": "caêchi uaza",
+      "Kakari-geiko": "cacari guêico",
+      "Kake": "caquê",
+      "Kame": "camê",
+      "Kansetsu-waza": "cansêtsu uáza",
+      "Kata": "cata",
+      "Katame-waza": "catamê uáza",
+      "Keiko": "quêico",
+      "Kenka-yotsu": "quênca iotsu",
+      "Kiai": "quiai",
+      "Kihon": "quihon",
+      "Kime": "quimê",
+      "Koka": "coca",
+      "Koshi-waza": "cochi uáza",
+      "Kumi-kata": "cumi cata",
+      "Kuzure": "cuzurê",
+      "Kuzushi": "cuzuchi",
+      "Kyu": "quiú",
+      "Ma-ai": "ma ai",
+      "Mae": "maê",
+      "Mae-mawari-komi": "maê mauari comi",
+      "Mae-mawari-sabaki": "maê mauari sabaqui",
+      "Mae-mawari-ukemi": "maê mauari uquêmi",
+      "Mae-sabaki": "maê sabaqui",
+      "Mae-ukemi": "maê uquêmi",
+      "Mate": "matê",
+      "Migi": "migui",
+      "Migi-jigotai": "migui djiotai",
+      "Migi-kumi-kata": "migui cumi cata",
+      "Migi-mae-mawari-ukemi": "migui maê mauari uquêmi",
+      "Migi-mae-sabaki": "migui maê sabaqui",
+      "Migi-mae-sumi": "migui maê sumi",
+      "Migi-mawari-sabaki": "migui mauari sabaqui",
+      "Migi-shizentai": "migui chizêntai",
+      "Migi-ushiro-sabaki": "migui uchiro sabaqui",
+      "Migi-ushiro-sumi": "migui uchiro sumi",
+      "Migi-yoko-ukemi": "migui ioco uquêmi",
+      "Mokuso": "mocuso",
+      "Morote": "morotê",
+      "Nagekomi": "naguêcomi",
+      "Nage-waza": "naguê uáza",
+      "Naname-mae": "nanamê maê",
+      "Naname-ushiro": "nanamê uchiro",
+      "Ne-waza": "nê uáza",
+      "Obi": "obi",
+      "Oku-eri": "ocu êri",
+      "Osaekomi": "osaêcomi",
+      "Osaekomi-waza": "osaêcomi uáza",
+      "Otagai-ni-rei": "otaai ni rêi",
+      "Randori": "randori",
+      "Rei": "rêi",
+      "Reiho": "rêiho",
+      "Renraku-waza": "rênracu uáza",
+      "Renzoku-waza": "rênzocu uáza",
+      "Ritsu-rei": "ritsu rêi",
+      "Ritsu-rei / Tachi-rei": "ritsu rêi tatchi rêi",
+      "Seiryoku-zenyo": "sêiriócu zêniô",
+      "Seiza": "sêiza",
+      "Sen": "sên",
+      "Sen-no-sen": "sên no sên",
+      "Sensei": "sênsêi",
+      "Sensei-ni-rei": "sênsêi ni rêi",
+      "Shiai": "chiai",
+      "Shiai-jo": "chiai djô",
+      "Shido": "chido",
+      "Shikō": "chicô",
+      "Shime-waza": "chimê uáza",
+      "Shinpan": "chinpan",
+      "Shintai": "chintai",
+      "Shisei": "chisêi",
+      "Shisei no Ne-waza": "chisêi no nê uaza",
+      "Shizen-hontai": "chizên rontai",
+      "Shizen-tai": "chizên tai",
+      "Shomen": "chômên",
+      "Shomen-ni-rei": "chomên ni rêi",
+      "Sode": "sodê",
+      "Sotai-renshu": "sotai rênchu",
+      "Sukashi": "sucachi",
+      "Suri-ashi": "suri achi",
+      "Sutemi-waza": "sutêmi uáza",
+      "Tachi-waza": "tatchi uáza",
+      "Tai-sabaki no Ne-waza": "tai sabaqui no nê uaza",
+      "Tandoku-renshu": "tandocu rênchu",
+      "Tatami": "tatami",
+      "Tokui-waza": "tocui uáza",
+      "Tori": "tori",
+      "Tsugi-ashi": "tsugui achi",
+      "Tsukuri": "tsucuri",
+      "Tsuri-te": "tsuri tê",
+      "Uchi-komi": "utchi comi",
+      "Uke": "uquê",
+      "Ukemi": "uquêmi",
+      "Ushiro": "uchiro",
+      "Ushiro-mawari-komi": "uchiro mauari comi",
+      "Ushiro-mawari-sabaki": "uchiro mauari sabaqui",
+      "Ushiro-mawari-ukemi": "uchiro mauari uquêmi",
+      "Ushiro-sabaki": "uchiro sabaqui",
+      "Ushiro-ukemi": "uchiro uquêmi",
+      "Waza": "uáza",
+      "Waza-ari": "uáza ari",
+      "Yakusoku-geiko": "iacusocu guêico",
+      "Yoko-mawari-ukemi": "ioco mauari uquêmi",
+      "Yoko-ukemi": "iôco uquêmi",
+      "Yotsunbai": "iotsunbai",
+      "Yuko": "iôco",
+      "Zanshin": "zanchin",
+      "Zarei": "zarêi",
+      "Zempo-kaiten-ukemi": "zêmpo caitên uquêmi"
+    },
+    "numbers": {
+      "1": "itchi",
+      "2": "ní",
+      "3": "san",
+      "4": "chi, ou, iôn",
+      "5": "gôu",
+      "6": "rocu",
+      "7": "citchi, ou, nana",
+      "8": "atchi",
+      "9": "kiú",
+      "10": "djuu",
+      "11": "djuuitchi",
+      "12": "djuuni",
+      "13": "djuusan",
+      "14": "djuu iôn",
+      "15": "djuugo",
+      "16": "djuuroku",
+      "17": "djuunana",
+      "18": "djuuhatchi",
+      "19": "djuukiú",
+      "20": "nidjuu",
+      "30": "sandjuu",
+      "40": "iôn djuu",
+      "50": "godjuu",
+      "60": "rokudjuu",
+      "70": "nanadjuu",
+      "80": "atchidjuu",
+      "90": "kiúdjuu",
+      "100": "iáku",
+      "24": "ni djuu iôn",
+      "67": "rokudjuunana",
+      "99": "kiúdjuukiú"
+    },
+    "kihon": {
+      "01": {
+        "Shisei": "chisêi",
+        "Shizen-hontai": "chizên rontai",
+        "Migi-shizentai": "migui chizêntai",
+        "Hidari-shizentai": "ridari chizêntai",
+        "Jigo-hontai": "djio rontai",
+        "Migi-jigotai": "migui djiotai",
+        "Hidari-jigotai": "ridari djiotai",
+        "Shizen-tai": "chizên tai",
+        "Jigotai": "djio tai"
+      },
+      "02": {
+        "Shintai": "chintai",
+        "Ayumi-ashi": "aiumi achi",
+        "Tsugi-ashi": "tsugui achi",
+        "Suri-ashi": "suri achi",
+        "Mae": "maê",
+        "Ushiro": "uchiro",
+        "Migi": "migui",
+        "Hidari": "ridari",
+        "Naname-mae": "nanamê maê",
+        "Naname-ushiro": "nanamê uchiro"
+      },
+      "03": {
+        "Mae-sabaki": "maê sabaqui",
+        "Ushiro-sabaki": "uchiro sabaqui",
+        "Migi-mae-sabaki": "migui maê sabaqui",
+        "Hidari-mae-sabaki": "ridari maê sabaqui",
+        "Migi-ushiro-sabaki": "migui uchiro sabaqui",
+        "Hidari-ushiro-sabaki": "ridari uchiro sabaqui",
+        "Mae-mawari-sabaki": "maê mauari sabaqui",
+        "Ushiro-mawari-sabaki": "uchiro mauari sabaqui",
+        "Migi-mawari-sabaki": "migui mauari sabaqui",
+        "Hidari-mawari-sabaki": "ridari mauari sabaqui",
+        "Mae-mawari-komi": "maê mauari comi",
+        "Ushiro-mawari-komi": "uchiro mauari comi"
+      },
+      "04": {
+        "Kuzushi": "cuzuchi",
+        "Happō-no-kuzushi": "rappô no cuzuchi",
+        "Mae": "maê",
+        "Ushiro": "uchiro",
+        "Migi": "migui",
+        "Hidari": "ridari",
+        "Migi-mae-sumi": "migui maê sumi",
+        "Hidari-mae-sumi": "ridari maê sumi",
+        "Migi-ushiro-sumi": "migui uchiro sumi",
+        "Hidari-ushiro-sumi": "ridari uchiro sumi"
+      },
+      "05": {
+        "Kumi-kata": "cumi cata",
+        "Hon-kumi-kata": "ron cumi cata",
+        "Migi-kumi-kata": "migui cumi cata",
+        "Hidari-kumi-kata": "ridari cumi cata",
+        "Ai-yotsu": "ai iotsu",
+        "Kenka-yotsu": "quênca iotsu",
+        "Hiki-te": "riqui tê",
+        "Tsuri-te": "tsuri tê",
+        "Eri": "êri",
+        "Sode": "sodê",
+        "Oku-eri": "ocu êri",
+        "Obi": "obi"
+      },
+      "06": {
+        "Ukemi": "uquêmi",
+        "Ushiro-ukemi": "uchiro uquêmi",
+        "Migi-yoko-ukemi": "migui ioco uquêmi",
+        "Hidari-yoko-ukemi": "ridari ioco uquêmi",
+        "Mae-ukemi": "maê uquêmi",
+        "Mae-mawari-ukemi": "maê mauari uquêmi",
+        "Migi-mae-mawari-ukemi": "migui maê mauari uquêmi",
+        "Hidari-mae-mawari-ukemi": "ridari maê mauari uquêmi",
+        "Ushiro-mawari-ukemi": "uchiro mauari uquêmi",
+        "Yoko-mawari-ukemi": "ioco mauari uquêmi",
+        "Zempo-kaiten-ukemi": "zêmpô caitên uquêmi"
+      },
+      "07": {
+        "Kuzushi": "cuzuchi",
+        "Tsukuri": "tsucuri",
+        "Kake": "caquê",
+        "Kime": "quimê",
+        "Zanshin": "zanchin"
+      },
+      "08": {
+        "Rei": "rêi",
+        "Ritsu-rei / Tachi-rei": "ritsu rêi tatchi rêi",
+        "Zarei": "za rêi",
+        "Seiza": "sêiza",
+        "Anza": "anza",
+        "Chokuritsu": "tchocuritsu",
+        "Shomen-ni-rei": "chomên ni rêi",
+        "Sensei-ni-rei": "sênsêi ni rêi",
+        "Otagai-ni-rei": "otaai ni rêi",
+        "Mokuso": "mocuso"
+      },
+      "09": {
+        "Shisei no Ne-waza": "chisêi no nê uaza",
+        "Shikō": "chicô",
+        "Ebi": "êbi",
+        "Gyaku-ebi": "guiacu êbi",
+        "Tai-sabaki no Ne-waza": "tai sabaqui no nê uaza",
+        "Yotsunbai": "iotsunbai",
+        "Kame": "camê"
+      },
+      "10": {
+        "Renraku-waza": "rênracu uaza",
+        "Renzoku-waza": "rênzocu uaza",
+        "Kaeshi-waza": "caêchi uaza",
+        "Bōgyo": "bôguio",
+        "Fusegi": "fusêgui",
+        "Sukashi": "sucachi",
+        "Henka-waza": "rênca uaza",
+        "Sen": "sên",
+        "Go-no-sen": "o no sên",
+        "Sen-no-sen": "sên no sên"
+      },
+      "11": {
+        "Tandoku-renshu": "tandocu rênchu",
+        "Sotai-renshu": "sotai rênchu",
+        "Uchi-komi": "utchi comi",
+        "Nagekomi": "naguê comi",
+        "Butsukari": "butsucari",
+        "Yakusoku-geiko": "iacusocu guêico",
+        "Kakari-geiko": "cacari guêico",
+        "Randori": "randori",
+        "Shiai": "chiai",
+        "Kata": "cata"
+      }
+    }
+  }
+}

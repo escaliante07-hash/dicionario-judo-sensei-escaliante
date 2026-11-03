@@ -1,0 +1,16 @@
+{
+  "id": "/",
+  "name": "Dicionário do Judô — Sensei Rodrigo Escaliante",
+  "short_name": "Dicionário Judô",
+  "description": "Técnicas Kodokan, termos do judô e pronúncias.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f7fb",
+  "theme_color": "#06244a",
+  "icons": [
+    { "src": "/icons/app-icon-escaliante.png", "sizes": "any", "type": "image/png", "purpose": "any" }
+  ]
+}
