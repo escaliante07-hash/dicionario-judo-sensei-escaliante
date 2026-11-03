@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#06244a">
   <meta name="description" content="Dicionário do Judô: técnicas Kodokan, fundamentos Kihon, termos, números e pronúncias.">
-  <link rel="manifest" href="/manifest.webmanifest">
-  <link rel="icon" href="/icons/app-icon-escaliante.png">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icons/app-icon-escaliante.png">
   <title>Dicionário do Judô — Sensei Rodrigo Escaliante</title>
   <style>
     :root{--navy:#06244a;--navy2:#0b315e;--blue:#39a4d6;--pale:#eaf2f9;--gold:#f4be20;--green:#087d3d;--ink:#17293d;--muted:#64758a;--line:#d9e3ee;--white:#fff;--shadow:0 10px 28px #06244a12}
@@ -31,7 +31,7 @@
   <div class="shell">
     <div class="sticky-top">
       <header class="top">
-        <div class="brand"><img src="/icons/sensei-escaliante-logo.png" alt="Logo Sensei Escaliante"/><div><h1>Dicionário do Judô</h1><p>Sensei Rodrigo Escaliante</p></div></div>
+        <div class="brand"><img src="./icons/sensei-escaliante-logo.png" alt="Logo Sensei Escaliante"/><div><h1>Dicionário do Judô</h1><p>Sensei Rodrigo Escaliante</p></div></div>
       </header>
       <div class="search-wrap">
         <label class="search" aria-label="Buscar técnica, termo ou número">
@@ -170,8 +170,8 @@
     document.addEventListener("click",e=>{const el=e.target.closest("[data-tab]");if(!el)return;const tab=el.dataset.tab;state.category=el.dataset.category||"Todas";state.letter="Todos";if(el.dataset.homeDestination==="terms"){state.termMode="glossary";state.numberGroup="Todos"}if(el.dataset.homeDestination==="kihon")state.kihonGroup="Todos";switchTab(tab)});document.querySelectorAll("[data-term-mode]").forEach(el=>el.addEventListener("click",()=>{state.termMode=el.dataset.termMode;state.numberGroup="Todos";renderTerms()}));document.addEventListener("click",e=>{const item=e.target.closest("[data-open]");if(item)openItem(item.dataset.open,item.dataset.kihonGroup||null)});document.getElementById("search").addEventListener("input",e=>search(e.target.value));document.addEventListener("click",e=>{if(!e.target.closest(".search-wrap"))document.getElementById("search-results").classList.remove("show")});
     document.getElementById("install-button").onclick=async()=>{if(state.installPrompt){state.installPrompt.prompt();await state.installPrompt.userChoice;state.installPrompt=null}else toast("No iPhone: toque em Compartilhar e escolha ‘Adicionar à Tela de Início’. No Android, use Instalar aplicativo no menu do navegador.")};
     window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();state.installPrompt=e});
-    if("serviceWorker" in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("/sw.js").then(registration=>registration.update()).catch(()=>{}));
-    fetch("/data.json").then(r=>r.json()).then(data=>{state.data=data;renderTab()}).catch(()=>{document.querySelector("main").innerHTML='<div class="empty"><strong>Não foi possível carregar o dicionário.</strong>Verifique sua conexão e tente abrir novamente.</div>'});
+    if("serviceWorker" in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("./sw.js").then(registration=>registration.update()).catch(()=>{}));
+    fetch("./data.json").then(r=>r.json()).then(data=>{state.data=data;renderTab()}).catch(()=>{document.querySelector("main").innerHTML='<div class="empty"><strong>Não foi possível carregar o dicionário.</strong>Verifique sua conexão e tente abrir novamente.</div>'});
   </script>
 </body>
 </html>
