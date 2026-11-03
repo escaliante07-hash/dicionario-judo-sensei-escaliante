@@ -1,4 +1,4 @@
-const CACHE = "dicionario-judo-v30";
+const CACHE = "dicionario-judo-v31";
 const BASE = self.registration.scope;
 const asset = path => new URL(path, BASE).href;
 const ASSETS = ["", "index.html", "manifest.webmanifest", "data.json", "icons/app-icon-escaliante.png", "icons/sensei-escaliante-logo.png"].map(asset);
