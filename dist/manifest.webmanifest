@@ -13,9 +13,9 @@
   "icons": [
     {
       "src": "icons/app-icon-escaliante.png",
-      "sizes": "any",
+      "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     }
   ]
 }
