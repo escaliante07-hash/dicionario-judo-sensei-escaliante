@@ -1440,6 +1440,11 @@
       ]
     },
     {
+      "term": "Kangeiko",
+      "pronunciation": "kan-guêi-co",
+      "meaning": "Treinamento intensivo de inverno, realizado no período mais frio para desenvolver disciplina e resiliência."
+    },
+    {
       "term": "Kansetsu-waza",
       "pronunciation": "ca-n-se-tsu / uá-za",
       "meaning": "Técnicas de controle articular."
@@ -1687,6 +1692,11 @@
       "meaning": "Duas mãos; com ambos os braços."
     },
     {
+      "term": "Nage-ai",
+      "pronunciation": "na-gue / a-i",
+      "meaning": "Treino em dupla com projeções alternadas, em que cada judoca aplica o golpe sucessivamente."
+    },
+    {
       "term": "Nagekomi",
       "pronunciation": "na-gue-co-mi",
       "meaning": "Repetição de projeções completas.",
@@ -1719,6 +1729,11 @@
       "term": "Ne-waza",
       "pronunciation": "ne / uá-za",
       "meaning": "Trabalho e técnicas no solo."
+    },
+    {
+      "term": "Ne-waza randori",
+      "pronunciation": "nê-uá-za / ran-dô-ri",
+      "meaning": "Prática livre de luta no solo, com imobilizações, chaves articulares e estrangulamentos a partir das transições no chão."
     },
     {
       "term": "Obi",
@@ -1855,6 +1870,11 @@
       ]
     },
     {
+      "term": "Shiai-geiko",
+      "pronunciation": "chi-ái / guêi-co",
+      "meaning": "Treino que simula uma competição, com arbitragem, regras, pontuação e tempo definidos."
+    },
+    {
       "term": "Shiai-jo",
       "pronunciation": "xi-a-i / djô",
       "meaning": "Área de competição."
@@ -1923,6 +1943,11 @@
       ]
     },
     {
+      "term": "Shochugeiko",
+      "pronunciation": "chô-tchu-guêi-co",
+      "meaning": "Treinamento de verão, realizado em período de calor para desenvolver resistência, superação e controle do esforço."
+    },
+    {
       "term": "Shomen",
       "pronunciation": "xô-me-n",
       "meaning": "Frente principal do dojo."
@@ -1958,6 +1983,11 @@
       "kihonGroups": [
         "10"
       ]
+    },
+    {
+      "term": "Sukuramu-geiko",
+      "pronunciation": "su-ku-rá-mu / guêi-co",
+      "meaning": "Treino intensivo em grupo, em formato de estafeta, voltado ao condicionamento cardiovascular e ao espírito de equipe."
     },
     {
       "term": "Suri-ashi",
@@ -3378,7 +3408,13 @@
       "Yuko": "iôco",
       "Zanshin": "zanchin",
       "Zarei": "zarêi",
-      "Zempo-kaiten-ukemi": "zêmpo caitên uquêmi"
+      "Zempo-kaiten-ukemi": "zêmpo caitên uquêmi",
+      "Nage-ai": "naguê ai",
+      "Ne-waza randori": "nê-uázarandori",
+      "Kangeiko": "canguêico",
+      "Shiai-geiko": "chiai guêico",
+      "Shochugeiko": "chôtchu guêico",
+      "Sukuramu-geiko": "sukuramu guêico"
     },
     "numbers": {
       "1": "itchi",
