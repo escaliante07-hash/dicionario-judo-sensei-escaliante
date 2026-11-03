@@ -4,7 +4,7 @@ Aplicativo PWA instalável para consultar as 100 técnicas Kodokan, termos, Kiho
 
 ## Abrir e instalar
 
-O repositório publica o aplicativo pelo GitHub Pages. Depois que a ação **Publish PWA to GitHub Pages** concluir, o app ficará disponível em:
+O repositório publica o aplicativo pelo GitHub Pages. A cada atualização na branch `main`, a ação **Publish PWA to GitHub Pages** publica o app automaticamente. O resultado da publicação aparece na aba **Actions**. O endereço ficará disponível em:
 
 https://escaliante07-hash.github.io/dicionario-judo-sensei-escaliante/
 
