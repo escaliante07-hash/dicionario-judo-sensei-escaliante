@@ -1359,7 +1359,7 @@
     {
       "term": "Ippon",
       "pronunciation": "ip-po-n",
-      "meaning": "Ponto completo; resultado que encerra o combate."
+      "meaning": "Pontuação de 100 pontos, o máximo que determina o fim da luta."
     },
     {
       "term": "Jigo-hontai",
@@ -2140,7 +2140,7 @@
     {
       "term": "Waza-ari",
       "pronunciation": "uá-za / a-ri",
-      "meaning": "Pontuação de alto valor, inferior ao ippon."
+      "meaning": "Pontuação de 10 pontos; dois waza-ari equivalem a um ippon."
     },
     {
       "term": "Yakusoku-geiko",
@@ -2174,7 +2174,7 @@
     {
       "term": "Yuko",
       "pronunciation": "iô-co",
-      "meaning": "Pontuação histórica; não integra a pontuação atual."
+      "meaning": "Pontuação de 1 ponto; a quantidade de yuko não se acumula para formar waza-ari."
     },
     {
       "term": "Zanshin",
@@ -3437,19 +3437,43 @@
       "18": "juuhatchi",
       "19": "juukiú",
       "20": "nijuu",
+      "24": "ni juu iôn",
       "30": "sanjuu",
       "40": "iôn juu",
       "50": "gojuu",
       "60": "rokujuu",
+      "67": "rokujuunana",
       "70": "nanajuu",
       "80": "atchijuu",
       "90": "kiújuu",
-      "100": "iáku",
-      "24": "ni juu iôn",
-      "67": "rokujuunana",
-      "99": "kiújuukiú"
+      "99": "kiújuukiú",
+      "100": "iáku"
     },
     "kihon": {
+      "10": {
+        "Renraku-waza": "rênracu uaza",
+        "Renzoku-waza": "rênzocu uaza",
+        "Kaeshi-waza": "caêchi uaza",
+        "Bōgyo": "bôguio",
+        "Fusegi": "fusêgui",
+        "Sukashi": "sucachi",
+        "Henka-waza": "rênca uaza",
+        "Sen": "sên",
+        "Go-no-sen": "o no sên",
+        "Sen-no-sen": "sên no sên"
+      },
+      "11": {
+        "Tandoku-renshu": "tandocu rênchu",
+        "Sotai-renshu": "sotai rênchu",
+        "Uchi-komi": "utchi comi",
+        "Nagekomi": "naguê comi",
+        "Butsukari": "butsucari",
+        "Yakusoku-geiko": "iacusocu guêico",
+        "Kakari-geiko": "cacari guêico",
+        "Randori": "randori",
+        "Shiai": "chiai",
+        "Kata": "cata"
+      },
       "01": {
         "Shisei": "chisêi",
         "Shizen-hontai": "chizên rontai",
@@ -3553,30 +3577,6 @@
         "Tai-sabaki no Ne-waza": "tai sabaqui no nê uaza",
         "Yotsunbai": "iotsunbai",
         "Kame": "camê"
-      },
-      "10": {
-        "Renraku-waza": "rênracu uaza",
-        "Renzoku-waza": "rênzocu uaza",
-        "Kaeshi-waza": "caêchi uaza",
-        "Bōgyo": "bôguio",
-        "Fusegi": "fusêgui",
-        "Sukashi": "sucachi",
-        "Henka-waza": "rênca uaza",
-        "Sen": "sên",
-        "Go-no-sen": "o no sên",
-        "Sen-no-sen": "sên no sên"
-      },
-      "11": {
-        "Tandoku-renshu": "tandocu rênchu",
-        "Sotai-renshu": "sotai rênchu",
-        "Uchi-komi": "utchi comi",
-        "Nagekomi": "naguê comi",
-        "Butsukari": "butsucari",
-        "Yakusoku-geiko": "iacusocu guêico",
-        "Kakari-geiko": "cacari guêico",
-        "Randori": "randori",
-        "Shiai": "chiai",
-        "Kata": "cata"
       }
     }
   }
